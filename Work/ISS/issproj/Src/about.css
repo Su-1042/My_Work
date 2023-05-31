@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
+h1 {
+    text-align: left;
+    margin-left: 100px;
+ 
+    
+}
+
+
+
+.onekepehle{
+    background-image: linear-gradient(to bottom right,purple,rgb(17, 19, 105));
+    height: 1000px;
+    width:101%;
+    text-align: center;
+    color: white;
+}
+
+
+
+.one {
+    background-image: linear-gradient(rgb(74, 222, 248), rgb(13, 189, 180));
+    height: 1000px;
+    text-align: center;
+    width:101%;
+}
+
+.header-1 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 20px;
+    font-family: "Delicious Handrawn";
+    color: #000;
+    font-size: 7.3vw;
+    line-height: 100%;
+    font-weight: 400;
+    letter-spacing: -0.35vw;
+    text-align: left;
+
+}
+
+.header-2 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-right: 10px;
+    padding-left: 0px;
+    font-family: 'Gt super text book', Georgia, sans-serif;
+    color: #000;
+    font-size: 7.3vw;
+    line-height: 100%;
+    font-weight: 400;
+    letter-spacing: -0.35vw;
+    text-align: right;
+    font-family: "Delicious Handrawn";
+}
+
+.two {
+    background-image: linear-gradient(rgb(6, 141, 112), rgb(79, 223, 192));
+    height: 1000px;
+    width:101%;
+   
+}
+
+.three {
+    background-image: linear-gradient(rgb(247, 221, 106), rgb(255, 224, 46));
+    height: 1000px;
+    width:101%;
+}
+
+.paragraph {
+    text-align: left;
+    position: relative;
+    font-family: 'Soehne web buch', sans-serif;
+    color: #000;
+    font-size: 30px;
+    line-height: 127%;
+    font-weight: 400;
+}
+
+
+.column {
+    float: left;
+    width: 20%;
+}
+
+.row:after {
+    border-radius: 50%;
+    width: 300px;
+
+}
+
+.logo img {
+    width: 175px;
+    transition: all;
+    height: 175px;
+}
+
+.logo img:hover {
+    transform: scale(0.5, 0.5);
+    transition-duration: 0.5s;
+}
+
+.toolbar {
+    height: 100px;
+    background-color: black;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+
+}
+
+
+.navbar {
+    overflow: hidden;
+    background-color: #000000;
+    position: fixed;
+    top: 0;
+    width: 101%;
+}
+.flex-container .navbar {
+
+    background-color: #000000;
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+    width: 100%;
+    
+}
+
+.navbar a {
+    float: right;
+    display: block;
+    color: #eeeeee;
+    text-align: center;
+    padding: 30px 40px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+/* .navbar a:hover {
+    background-color: plum;
+
+} */
+
+
+.navbar a.active{
+    background-color: rgb(116, 10, 165);
+}
+
+.heading{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 20%;
+    margin-right: 150px;
+}
+
+.row:after {
+    border-radius: 50%;
+    width: 300px;
+
+}
+
+.image {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    margin-left: 200px;
+    margin-top: 80px;
+    margin-right: 80px;
+    object-fit: cover;
+    /* margin: 30px; */
+}
+.actualimage {
+
+    width: 100%;
+    height: 100%;
+    float: left;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 100%;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: 'Quicksand', sans-serif;
+    opacity: 0;
+    transition-duration: 0.75s;
+}
+
+.overlay:hover {
+    opacity: 1;
+
+}
+
+.image_title {
+    font-size: 30px;
+    font-weight: bold;
+    top: 0;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+table,tr{
+    align-items: left;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+
+
+.flex-container .flexxybox{
+    
+    margin: 10px;
+    padding: 30px;
+    font-size: 30px;
+}
+
+.aboutuslink{
+    text-decoration: none;
+    color:white ;
+}
+
+.aboutuslink:hover{
+    color: rgb(212, 46, 212);
+}
+
+.footerpara {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+
+body {
+    background-color: #000;
+}
+
+
+

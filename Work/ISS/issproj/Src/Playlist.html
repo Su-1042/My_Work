@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Playlist</title>
+	<link rel="stylesheet" href="Playlist.css">
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script>
+		function removeSong(id) {
+			fetch('http://127.0.0.1:8000/', {
+				method: 'POST',
+				headers: {
+					'Content-Type': 'application/x-www-form-urlencoded'
+				},
+				body: 'song_id=' + encodeURIComponent(id)
+			})
+				.then(response => response.text())
+				.then(message => {
+					console.log(message)
+					alert(message);
+					location.reload();
+				})
+				.catch(error => {
+					alert('An error occurred: ' + error.message);
+				});
+		}
+
+		$(document).ready(function () {
+			fetch('http://127.0.0.1:8000/app/songs')
+				.then(response => response.json())
+				.then(songs => {
+					var table = $('<table>');
+					$.each(songs, function (index, song) {
+						var row = $('<tr style="border-bottom:2px solid black">');
+						row.append($('<td>').text(song.song_name));
+						row.append($('<td>').text(song.alb_name));
+						row.append($('<td>').text(song.art_name));
+						row.append($('<td>').html('<button onclick="removeSong(' + song.song_id + ')"><div class="remove-button">Remove</div></button>'));
+						table.append(row);
+					});
+					$('#playlist').append(table);
+				})
+				.catch(error => {
+					alert('An error occurred: ' + error.message);
+				});
+		});
+	</script>
+
+</head>
+
+<body>
+	<div class="upperhome">
+		<div class="flex-container">
+
+			<div class="flex-container">
+				<div class="navbar">
+					<a href="about.html" id="navbar">About</a>
+					<a href="Playlist.html" class="active" id="navbar2">Playlist</a>
+					<a href="Artists.html" id="navbar1">Artists</a>
+					<a href="search.html">Search</a>
+					<a href="Spotlight.html" id="navbar3">SpotLight</a>
+					<a id="navbar1" href="homepage.html">Home</a>
+					<img src="Photos/vibin.png" height="80px" width="150px" alt="image no found">
+				</div>
+			</div>
+
+
+		</div>
+		</br>
+		</br>
+		</br>
+		</br>
+		</br>
+
+		</br>
+		</br>
+
+
+		</br>
+		</br>
+		<div class="Playlist">
+			<div class="page-heading"><div id="typing-effect">
+				Your Playlist
+			</div></div>
+			<div id="playlist"></div>
+		</div>
+
+	</div>
+	<div class="flex-container">
+		<footer>
+			<pre><p class="footerpara">Terms and Conditions         Copyright Terms        <a class="aboutuslink" href="about.html">About us</a></p></pre>
+		</footer>
+	</div>
+	<script src="navbar.js"></script>
+	<script>var element = document.getElementById("typing-effect");
+		var text = element.innerHTML;
+		element.innerHTML = "";
+		var i = 0;
+		var intervalId = setInterval(function () {
+			element.innerHTML += text.charAt(i);
+			i++;
+			if (i == text.length) {
+				clearInterval(intervalId);
+			}
+		}, 50); 
+	</script>
+</body>
+
+</html>

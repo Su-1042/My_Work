@@ -1,0 +1,2002 @@
+Title,Year,Runtime,Genre,IMDB Rating,Grosses,Action,Adventure,Fantasy,Drama,Romance,Sci-Fi,Animation,Crime,Thriller,Comedy,Family,Biography,Music,History,Mystery,Horror,Musical,War,Western,Sport,Documentary
+
+Avatar,(2009),162,"['Action', 'Adventure', 'Fantasy']",7.9,2922917914,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Avengers: Endgame,(2019),181,"['Action', 'Adventure', 'Drama']",8.4,2797501328,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Titanic,(1997),194,"['Drama', 'Romance']",7.9,2201647264,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Star Wars: Episode VII - The Force Awakens,(2015),138,"['Action', 'Adventure', 'Sci-Fi']",7.8,2069521700,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Avengers: Infinity War,(2018),149,"['Action', 'Adventure', 'Sci-Fi']",8.4,2048359754,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Spider-Man: No Way Home,(2021),148,"['Action', 'Adventure', 'Fantasy']",8.2,1916306995,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Jurassic World,(2015),124,"['Action', 'Adventure', 'Sci-Fi']",6.9,1671537444,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Lion King 1,(2019),118,"['Animation', 'Adventure', 'Drama']",6.8,1663075401,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Avengers,(2012),143,"['Action', 'Sci-Fi']",8,1518815515,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Avatar: The Way of Water,(2022),192,"['Action', 'Adventure', 'Fantasy']",7.7,1516558728,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Fast & Furious 7,(2015),137,"['Action', 'Crime', 'Thriller']",7.1,1515341399,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Top Gun: Maverick,(2022),130,"['Action', 'Drama']",8.3,1488732821,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Frozen II,(2019),103,"['Animation', 'Adventure', 'Comedy']",6.8,1450026933,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Avengers: Age of Ultron,(2015),141,"['Action', 'Adventure', 'Sci-Fi']",7.3,1402809540,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Black Panther,(2018),134,"['Action', 'Adventure', 'Sci-Fi']",7.3,1382248826,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Harry Potter and the Deathly Hallows: Part 2,(2011),130,"['Adventure', 'Family', 'Fantasy']",8.1,1342359942,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Star Wars: Episode VIII - The Last Jedi,(2017),152,"['Action', 'Adventure', 'Fantasy']",6.9,1332698830,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Jurassic World: Fallen Kingdom,(2018),128,"['Action', 'Adventure', 'Sci-Fi']",6.1,1310466296,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Frozen,(I) (2013),102,"['Animation', 'Adventure', 'Comedy']",7.4,1281508100,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Beauty and the Beast,(I) (2017),129,"['Adventure', 'Family', 'Fantasy']",7.1,1264435322,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Incredibles 2,(2018),118,"['Animation', 'Action', 'Adventure']",7.6,1243089244,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Fate of the Furious,(2017),136,"['Action', 'Crime', 'Thriller']",6.6,1236005118,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Iron Man Three,(2013),130,"['Action', 'Adventure', 'Sci-Fi']",7.1,1214811252,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Minions,(2015),91,"['Animation', 'Adventure', 'Comedy']",6.4,1159444662,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Captain America: Civil War,(2016),147,"['Action', 'Sci-Fi']",7.8,1153337496,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Aquaman,(2018),143,"['Action', 'Adventure', 'Fantasy']",6.8,1148528393,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Lord of the Rings: The Return of the King,(2003),201,"['Action', 'Adventure', 'Drama']",9,1146457748,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Spider-Man: Far from Home,(2019),129,"['Action', 'Adventure', 'Comedy']",7.4,1131927996,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Captain Marvel,(2019),123,"['Action', 'Adventure', 'Sci-Fi']",6.8,1128462972,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Transformers: Dark of the Moon,(2011),154,"['Action', 'Adventure', 'Sci-Fi']",6.2,1123794079,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Jurassic Park,(1993),127,"['Action', 'Adventure', 'Sci-Fi']",8.2,1109802321,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Skyfall,(2012),143,"['Action', 'Adventure', 'Thriller']",7.8,1108569499,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Transformers: Age of Extinction,(2014),165,"['Action', 'Adventure', 'Sci-Fi']",5.6,1104054072,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Dark Knight Rises,(2012),164,"['Action', 'Drama', 'Thriller']",8.4,1081169825,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Joker,(I) (2019),122,"['Crime', 'Drama', 'Thriller']",8.4,1074458282,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Star Wars: Episode IX - The Rise of Skywalker,(2019),141,"['Action', 'Adventure', 'Fantasy']",6.5,1074149279,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Toy Story 4,(2019),100,"['Animation', 'Adventure', 'Comedy']",7.7,1073394593,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Toy Story 3,(2010),103,"['Animation', 'Adventure', 'Comedy']",8.3,1066970811,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Pirates of the Caribbean: Dead Man's Chest,(2006),151,"['Action', 'Adventure', 'Fantasy']",7.3,1066179747,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Rogue One,(2016),133,"['Action', 'Adventure', 'Sci-Fi']",7.8,1058682142,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Aladdin,(2019),128,"['Adventure', 'Comedy', 'Family']",6.9,1050693953,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Pirates of the Caribbean: On Stranger Tides,(2011),137,"['Action', 'Adventure', 'Fantasy']",6.6,1045713802,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Despicable Me 3,(2017),89,"['Animation', 'Adventure', 'Comedy']",6.2,1034800131,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Finding Dory,(2016),97,"['Animation', 'Adventure', 'Comedy']",7.3,1028570942,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Star Wars: Episode I - The Phantom Menace,(1999),136,"['Action', 'Adventure', 'Fantasy']",6.5,1027082707,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Alice in Wonderland,(I) (2010),108,"['Adventure', 'Family', 'Fantasy']",6.4,1025468216,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Zootopia,(2016),108,"['Animation', 'Adventure', 'Comedy']",8,1024121104,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Harry Potter and the Sorcerer's Stone,(2001),152,"['Adventure', 'Family', 'Fantasy']",7.6,1023842938,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+The Hobbit: An Unexpected Journey,(2012),169,"['Adventure', 'Fantasy']",7.8,1017030651,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Dark Knight,(2008),152,"['Action', 'Crime', 'Drama']",9,1006234167,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Jurassic World: Dominion,(2022),147,"['Action', 'Adventure', 'Sci-Fi']",5.6,1001978080,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Jumanji: Welcome to the Jungle,(2017),119,"['Action', 'Adventure', 'Comedy']",6.9,995339117,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Harry Potter and the Deathly Hallows: Part 1,(2010),146,"['Adventure', 'Family', 'Fantasy']",7.7,977070383,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Despicable Me 2,(2013),98,"['Animation', 'Adventure', 'Comedy']",7.3,970766005,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Lion King 2,(1994),88,"['Animation', 'Adventure', 'Drama']",8.5,968511805,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Jungle Book,(2016),106,"['Adventure', 'Drama', 'Family']",7.4,966554929,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+The Hobbit: The Battle of the Five Armies,(2014),144,"['Adventure', 'Fantasy']",7.4,962201338,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Pirates of the Caribbean: At World's End,(2007),169,"['Action', 'Adventure', 'Fantasy']",7.1,960996492,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Hobbit: The Desolation of Smaug,(2013),161,['Fantasy'],7.8,959027992,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Doctor Strange in the Multiverse of Madness,(2022),126,"['Action', 'Adventure', 'Fantasy']",6.9,955775804,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Lord of the Rings: The Two Towers,(2002),179,"['Action', 'Adventure', 'Drama']",8.8,947944270,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Harry Potter and the Order of the Phoenix,(2007),138,"['Action', 'Adventure', 'Family']",7.5,942256902,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Finding Nemo,(2003),100,"['Animation', 'Adventure', 'Comedy']",8.2,940352645,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Minions: The Rise of Gru,(2022),87,"['Animation', 'Adventure', 'Comedy']",6.5,939628210,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Harry Potter and the Half-Blood Prince,(2009),153,"['Action', 'Adventure', 'Family']",7.6,934504700,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Shrek 2,(2004),93,"['Animation', 'Adventure', 'Comedy']",7.3,928760770,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Harry Potter and the Chamber of Secrets,(2002),161,"['Adventure', 'Family', 'Fantasy']",7.4,925054421,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Bohemian Rhapsody,(2018),134,"['Biography', 'Drama', 'Music']",7.9,910809311,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+
+Chang jin hu,(2021),176,"['Action', 'Drama', 'History']",5.4,902548476,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+
+The Lord of the Rings: The Fellowship of the Ring,(2001),178,"['Action', 'Adventure', 'Drama']",8.8,898204420,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Harry Potter and the Goblet of Fire,(2005),157,"['Adventure', 'Family', 'Fantasy']",7.7,896815106,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Spider-Man 3,(2007),139,"['Action', 'Adventure', 'Sci-Fi']",6.3,894983373,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Secret Life of Pets,(2016),87,"['Animation', 'Adventure', 'Comedy']",6.5,894328469,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ice Age: Dawn of the Dinosaurs,(2009),94,"['Animation', 'Adventure', 'Comedy']",6.9,886686817,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Spectre,(I) (2015),148,"['Action', 'Adventure', 'Thriller']",6.8,880705312,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Spider-Man: Homecoming,(2017),133,"['Action', 'Adventure', 'Sci-Fi']",7.4,880166924,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Ice Age: Continental Drift,(2012),88,"['Animation', 'Adventure', 'Comedy']",6.5,877244782,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Batman v Superman: Dawn of Justice,(2016),151,"['Action', 'Adventure', 'Sci-Fi']",6.4,873637528,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Zhan lang II,(2017),123,"['Action', 'Adventure', 'Drama']",5.9,870325439,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Star Wars: Episode III - Revenge of the Sith,(2005),140,"['Action', 'Adventure', 'Fantasy']",7.6,868390560,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Hunger Games: Catching Fire,(2013),146,"['Action', 'Adventure', 'Sci-Fi']",7.5,865011746,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Guardians of the Galaxy Vol. 2,(2017),136,"['Action', 'Adventure', 'Comedy']",7.6,863756051,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Inside Out,(I) (2015),95,"['Animation', 'Adventure', 'Comedy']",8.1,858848019,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Venom,(2018),112,"['Action', 'Adventure', 'Sci-Fi']",6.6,856085151,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Thor: Ragnarok,(2017),130,"['Action', 'Adventure', 'Comedy']",7.9,853983879,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Twilight Saga: Breaking Dawn - Part 2,(2012),115,"['Adventure', 'Drama', 'Fantasy']",5.5,848853382,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Inception,(2010),148,"['Action', 'Adventure', 'Sci-Fi']",8.8,836848102,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Transformers: Revenge of the Fallen,(2009),149,"['Action', 'Adventure', 'Sci-Fi']",5.9,836303693,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Spider-Man,(2002),121,"['Action', 'Adventure', 'Sci-Fi']",7.4,825025036,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Black Panther: Wakanda Forever,(2022),161,"['Action', 'Adventure', 'Drama']",6.7,823221911,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Wonder Woman,(2017),141,"['Action', 'Adventure', 'Fantasy']",7.4,822854286,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+"Ni hao, Li Huanying",(2021),128,"['Comedy', 'Romance']",7,822009764,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Independence Day,(1996),145,"['Action', 'Adventure', 'Sci-Fi']",7,817400891,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Fantastic Beasts and Where to Find Them,(2016),132,"['Adventure', 'Family', 'Fantasy']",7.2,814044001,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Shrek the Third,(2007),93,"['Animation', 'Adventure', 'Comedy']",6.1,813367380,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Coco,(I) (2017),105,"['Animation', 'Adventure', 'Comedy']",8.4,807817888,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Jumanji: The Next Level,(2019),123,"['Action', 'Adventure', 'Comedy']",6.7,801693929,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Harry Potter and the Prisoner of Azkaban,(2004),142,"['Adventure', 'Family', 'Fantasy']",7.9,797660766,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Pirates of the Caribbean: Dead Men Tell No Tales,(2017),129,"['Action', 'Adventure', 'Fantasy']",6.5,794881442,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+E.T. the Extra-Terrestrial,(1982),115,"['Adventure', 'Family', 'Sci-Fi']",7.9,792910554,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Mission: Impossible - Fallout,(2018),147,"['Action', 'Adventure', 'Thriller']",7.7,791657398,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+2012,(I) (2009),158,"['Action', 'Adventure', 'Sci-Fi']",5.8,791217826,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Indiana Jones and the Kingdom of the Crystal Skull,(2008),122,"['Action', 'Adventure']",6.2,790653942,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Spider-Man 2,(2004),127,"['Action', 'Adventure', 'Sci-Fi']",7.4,788976453,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Furious 6,(2013),130,"['Action', 'Adventure', 'Crime']",7,788680968,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Deadpool 2,(2018),119,"['Action', 'Adventure', 'Comedy']",7.6,785896609,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Deadpool,(2016),108,"['Action', 'Comedy']",8,782836791,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Star Wars,(1977),121,"['Action', 'Adventure', 'Fantasy']",8.6,775398007,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+No Time to Die,(2021),163,"['Action', 'Adventure', 'Thriller']",7.3,774153007,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Interstellar,(2014),169,"['Adventure', 'Drama', 'Sci-Fi']",8.6,773867216,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Guardians of the Galaxy,(2014),121,"['Action', 'Adventure', 'Comedy']",8,773350147,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Batman,(2022),176,"['Action', 'Crime', 'Drama']",7.8,770945583,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Thor: Love and Thunder,(2022),118,"['Action', 'Adventure', 'Comedy']",6.2,760928081,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Fast & Furious Presents: Hobbs & Shaw,(2019),137,"['Action', 'Adventure', 'Thriller']",6.5,760732926,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Da Vinci Code,(2006),149,"['Mystery', 'Thriller']",6.6,760006945,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Maleficent,(2014),97,"['Adventure', 'Family', 'Fantasy']",6.9,758411779,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+The Amazing Spider-Man,(2012),136,"['Action', 'Adventure', 'Sci-Fi']",6.9,757930663,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Hunger Games: Mockingjay - Part 1,(2014),123,"['Action', 'Adventure', 'Sci-Fi']",6.6,755356711,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Shrek Forever After,(2010),95,"['Animation', 'Adventure', 'Comedy']",6.3,752600867,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Gravity,(2013),91,"['Drama', 'Sci-Fi', 'Thriller']",7.7,748049949,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Madagascar 3: Europe's Most Wanted,(2012),95,"['Animation', 'Adventure', 'Comedy']",6.8,746921274,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Suicide Squad,(2016),123,"['Action', 'Adventure', 'Fantasy']",5.9,746846894,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+X-Men: Days of Future Past,(2014),132,"['Action', 'Adventure', 'Sci-Fi']",7.9,746045700,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",(2005),143,"['Adventure', 'Family', 'Fantasy']",6.9,745013115,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Monsters University,(2013),104,"['Animation', 'Adventure', 'Comedy']",7.2,743559645,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Matrix Reloaded,(2003),138,"['Action', 'Sci-Fi']",7.2,741847937,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Up,(2009),96,"['Animation', 'Adventure', 'Comedy']",8.3,735099102,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ne Zha zhi mo tong jiang shi,(2019),110,"['Animation', 'Action', 'Adventure']",7.4,726264074,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+F9,(2021),143,"['Action', 'Crime', 'Thriller']",5.2,726229501,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Captain America: The Winter Soldier,(2014),136,"['Action', 'Adventure', 'Sci-Fi']",7.8,714421503,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Twilight Saga: Breaking Dawn - Part 1,(2011),117,"['Adventure', 'Drama', 'Fantasy']",4.9,712205856,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Twilight Saga: New Moon,(2009),130,"['Adventure', 'Drama', 'Fantasy']",4.7,711025481,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Dawn of the Planet of the Apes,(2014),130,"['Action', 'Adventure', 'Drama']",7.6,710644566,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Transformers,(2007),144,"['Action', 'Adventure', 'Sci-Fi']",7,709709780,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Amazing Spider-Man 2,(2014),142,"['Action', 'Adventure', 'Sci-Fi']",6.6,708982323,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+It,(I) (2017),135,['Horror'],7.3,701842551,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Liu lang di qiu,(2019),125,"['Action', 'Adventure', 'Sci-Fi']",5.9,699992512,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Twilight Saga: Eclipse,(2010),124,"['Action', 'Adventure', 'Drama']",5,698509825,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Mission: Impossible - Ghost Protocol,(2011),132,"['Action', 'Adventure', 'Thriller']",7.4,694713380,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Mamma Mia!,(2008),108,"['Comedy', 'Musical', 'Romance']",6.5,694476782,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+
+The Hunger Games,(2012),142,"['Action', 'Adventure', 'Sci-Fi']",7.2,694394724,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Tang ren jie tan an 3,(2021),136,"['Action', 'Adventure', 'Comedy']",5.6,686257563,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Mission: Impossible - Rogue Nation,(2015),131,"['Action', 'Adventure', 'Thriller']",7.4,682716636,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Forrest Gump,(1994),142,"['Drama', 'Romance']",8.8,678226465,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Doctor Strange,(2016),115,"['Action', 'Adventure', 'Fantasy']",7.5,677796076,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Sixth Sense,(1999),107,"['Drama', 'Mystery', 'Thriller']",8.2,672806432,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Man of Steel,(2013),143,"['Action', 'Adventure', 'Sci-Fi']",7.1,668045518,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Ice Age: The Meltdown,(2006),91,"['Animation', 'Adventure', 'Comedy']",6.8,667094506,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Kung Fu Panda 2,(2011),90,"['Animation', 'Action', 'Adventure']",7.2,665692281,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Moana,(I) (2016),107,"['Animation', 'Adventure', 'Comedy']",7.6,665069139,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Justice League,(2017),120,"['Action', 'Adventure', 'Fantasy']",6.1,657926987,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Big Hero 6,(2014),102,"['Animation', 'Action', 'Adventure']",7.8,657869686,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Fantastic Beasts: The Crimes of Grindelwald,(2018),134,"['Adventure', 'Family', 'Fantasy']",6.5,654855901,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Pirates of the Caribbean: The Curse of the Black Pearl,(2003),143,"['Action', 'Adventure', 'Fantasy']",8.1,654264015,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Men in Black 3,(2012),106,"['Action', 'Adventure', 'Comedy']",6.8,654213485,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Star Wars: Episode II - Attack of the Clones,(2002),142,"['Action', 'Adventure', 'Fantasy']",6.6,653779970,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Hunger Games: Mockingjay - Part 2,(2015),137,"['Action', 'Adventure', 'Sci-Fi']",6.5,653428261,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Thor: The Dark World,(2013),112,"['Action', 'Adventure', 'Fantasy']",6.8,644783140,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Sing,(2016),108,"['Animation', 'Comedy', 'Family']",7.1,634338384,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Kung Fu Panda,(2008),92,"['Animation', 'Action', 'Adventure']",7.6,632083197,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Incredibles,(2004),115,"['Animation', 'Action', 'Adventure']",8,631607053,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Martian,(2015),144,"['Adventure', 'Drama', 'Sci-Fi']",8,630620818,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Hancock,(2008),92,"['Action', 'Comedy', 'Drama']",6.4,629443428,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Chang jin hu zhi shui men qiao,(2022),153,"['Action', 'Drama', 'History']",5.5,626571697,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+
+Fast Five,(2011),130,"['Action', 'Crime', 'Thriller']",7.3,626137675,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Iron Man 2,(2010),124,"['Action', 'Sci-Fi']",6.9,623933331,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Ratatouille,(2007),111,"['Animation', 'Adventure', 'Comedy']",8.1,623726085,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ant-Man and the Wasp,(2018),118,"['Action', 'Adventure', 'Comedy']",7,622674139,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+How to Train Your Dragon 2,(2014),102,"['Animation', 'Action', 'Adventure']",7.8,621537519,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Logan,(2017),137,"['Action', 'Drama', 'Sci-Fi']",8.1,619179950,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Lost World: Jurassic Park,(1997),129,"['Action', 'Adventure', 'Sci-Fi']",6.5,618638999,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Casino Royale,(2006),144,"['Action', 'Adventure', 'Thriller']",8,616505162,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Passion of the Christ,(2004),127,['Drama'],7.2,612054506,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Life of Pi,(2012),127,"['Adventure', 'Drama', 'Fantasy']",7.9,609016565,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Transformers: The Last Knight,(2017),154,"['Action', 'Adventure', 'Sci-Fi']",5.2,605425157,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Madagascar: Escape 2 Africa,(2008),89,"['Animation', 'Adventure', 'Comedy']",6.6,603900354,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+War of the Worlds,(2005),116,"['Action', 'Adventure', 'Sci-Fi']",6.5,603873119,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Tangled,(2010),100,"['Animation', 'Adventure', 'Comedy']",7.7,592462816,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ready Player One,(2018),140,"['Action', 'Adventure', 'Sci-Fi']",7.4,592241728,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Quantum of Solace,(2008),106,"['Action', 'Adventure', 'Mystery']",6.6,589580482,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Men in Black,(1997),98,"['Action', 'Adventure', 'Comedy']",7.3,589390539,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Croods,(2013),98,"['Animation', 'Action', 'Adventure']",7.2,587235983,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Hangover Part II,(2011),102,['Comedy'],6.5,586764305,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Iron Man,(2008),126,"['Action', 'Adventure', 'Sci-Fi']",7.9,585796247,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+I Am Legend,(2007),101,"['Action', 'Drama', 'Horror']",7.2,585410052,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+"Monsters, Inc.",(2001),92,"['Animation', 'Adventure', 'Comedy']",8.1,579707738,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Hong hai xing dong,(2018),142,"['Action', 'Drama', 'Thriller']",6.6,579330426,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Night at the Museum,(2006),108,"['Adventure', 'Comedy', 'Family']",6.4,574481229,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Fifty Shades of Grey,(2015),125,"['Drama', 'Romance', 'Thriller']",4.2,569651467,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Kong: Skull Island,(2017),118,"['Action', 'Adventure', 'Fantasy']",6.6,566652812,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Smurfs,(2011),103,"['Animation', 'Adventure', 'Comedy']",5.4,563749323,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Cars 2,(2011),106,"['Animation', 'Adventure', 'Comedy']",6.2,559852396,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+King Kong,(2005),187,"['Action', 'Adventure', 'Drama']",7.2,556906378,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Puss in Boots,(2011),90,"['Animation', 'Adventure', 'Comedy']",6.6,554987477,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Mei ren yu,(2016),94,"['Comedy', 'Drama', 'Fantasy']",6.2,553810228,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Armageddon,(1998),151,"['Action', 'Adventure', 'Sci-Fi']",6.7,553709788,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Day After Tomorrow,(2004),124,"['Action', 'Adventure', 'Sci-Fi']",6.4,552639571,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Ted,(2012),106,['Comedy'],6.9,549368315,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+American Sniper,(2014),133,"['Action', 'Biography', 'Drama']",7.3,547459020,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Mission: Impossible II,(2000),123,"['Action', 'Adventure', 'Thriller']",6.1,546388108,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Tang ren jie tan an 2,(2018),121,"['Action', 'Comedy', 'Mystery']",6.1,544185156,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+
+X-Men: Apocalypse,(2016),144,"['Action', 'Adventure', 'Sci-Fi']",6.9,543934105,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Sherlock Holmes: A Game of Shadows,(2011),129,"['Action', 'Adventure', 'Mystery']",7.4,543848418,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Despicable Me,(2010),95,"['Animation', 'Adventure', 'Comedy']",7.6,543157985,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Cinderella,(I) (2015),105,"['Adventure', 'Drama', 'Family']",6.9,542358331,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Madagascar,(2005),86,"['Animation', 'Adventure', 'Comedy']",6.9,542063846,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+World War Z,(2013),116,"['Action', 'Adventure', 'Horror']",7,540455876,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Brave,(2012),93,"['Animation', 'Adventure', 'Comedy']",7.1,538983207,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Empire Strikes Back,(1980),124,"['Action', 'Adventure', 'Fantasy']",8.7,538375067,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Simpsons Movie,(2007),87,"['Animation', 'Adventure', 'Comedy']",7.3,536414293,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Revenant,(2015),156,"['Action', 'Adventure', 'Drama']",8,532950503,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Meg,(2018),113,"['Action', 'Horror', 'Sci-Fi']",5.6,530517320,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Ralph Breaks the Internet,(2018),112,"['Animation', 'Adventure', 'Comedy']",7,529323962,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Hotel Transylvania 3: Summer Vacation,(2018),97,"['Animation', 'Adventure', 'Comedy']",6.3,528583774,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Boss Baby,(2017),97,"['Animation', 'Adventure', 'Comedy']",6.3,527965936,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Dunkirk,(2017),106,"['Action', 'Drama', 'History']",7.8,527016307,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+
+The Grinch,(2018),85,"['Animation', 'Comedy', 'Family']",6.4,526760632,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Godzilla,(2014),123,"['Action', 'Adventure', 'Sci-Fi']",6.4,524976069,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+How to Train Your Dragon: The Hidden World,(2019),104,"['Animation', 'Action', 'Adventure']",7.4,524580592,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Sherlock Holmes,(2009),128,"['Action', 'Adventure', 'Mystery']",7.6,524028679,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Meet the Fockers,(2004),115,"['Comedy', 'Romance']",6.3,522657936,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+WALL·E,(2008),98,"['Animation', 'Adventure', 'Family']",8.4,521311890,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Kung Fu Panda 3,(2016),95,"['Animation', 'Action', 'Adventure']",7.1,521170825,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Terminator 2: Judgment Day,(1991),137,"['Action', 'Sci-Fi']",8.6,520881154,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Ant-Man,(2015),117,"['Action', 'Comedy', 'Sci-Fi']",7.3,519311965,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Venom: Let There Be Carnage,(2021),97,"['Action', 'Sci-Fi', 'Thriller']",5.9,506863592,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Ghost,(1990),127,"['Drama', 'Fantasy', 'Romance']",7.1,505703557,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Aladdin,(1992),90,"['Animation', 'Adventure', 'Comedy']",8,504050219,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Gladiator,(2000),155,"['Action', 'Adventure', 'Drama']",8.5,503162313,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Rio 2,(2014),101,"['Animation', 'Adventure', 'Comedy']",6.3,498781117,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Troy,(2004),163,['Drama'],7.3,497409852,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Toy Story 2,(1999),92,"['Animation', 'Adventure', 'Comedy']",7.9,497375381,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+How to Train Your Dragon,(2010),98,"['Animation', 'Action', 'Adventure']",8.1,494879471,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Twister,(I) (1996),113,"['Action', 'Adventure', 'Thriller']",6.4,494580615,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Oz the Great and Powerful,(2013),130,"['Adventure', 'Family', 'Fantasy']",6.3,493311825,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Clash of the Titans,(2010),106,"['Action', 'Adventure', 'Fantasy']",5.8,493214993,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Maleficent: Mistress of Evil,(2019),119,"['Adventure', 'Family', 'Fantasy']",6.6,491730089,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+War for the Planet of the Apes,(2017),140,"['Action', 'Adventure', 'Drama']",7.4,490719763,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Shrek,(2001),90,"['Animation', 'Adventure', 'Comedy']",7.9,488351320,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Mr. & Mrs. Smith,(2005),120,"['Action', 'Comedy', 'Crime']",6.5,487287646,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Angels & Demons,(2009),138,"['Action', 'Mystery', 'Thriller']",6.7,485930816,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Teenage Mutant Ninja Turtles,(2014),101,"['Action', 'Adventure', 'Comedy']",5.8,485004754,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Bruce Almighty,(2003),101,"['Comedy', 'Fantasy']",6.8,484592874,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Rio,(2011),96,"['Animation', 'Adventure', 'Comedy']",6.9,483866772,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Saving Private Ryan,(1998),169,"['Drama', 'War']",8.6,482349603,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+
+Rise of the Planet of the Apes,(2011),105,"['Action', 'Drama', 'Sci-Fi']",7.6,481800873,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Home Alone,(1990),103,"['Comedy', 'Family']",7.7,476684675,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Jaws,(1975),124,"['Adventure', 'Mystery', 'Thriller']",8.1,476512065,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Hotel Transylvania 2,(2015),89,"['Animation', 'Adventure', 'Comedy']",6.6,475186706,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Star Wars: Episode VI - Return of the Jedi,(1983),131,"['Action', 'Adventure', 'Fantasy']",8.3,475106177,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Charlie and the Chocolate Factory,(2005),115,"['Adventure', 'Comedy', 'Family']",6.7,474968763,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Indiana Jones and the Last Crusade,(1989),127,"['Action', 'Adventure']",8.2,474171806,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+San Andreas,(2015),114,"['Action', 'Adventure', 'Thriller']",6.1,474009154,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+It Chapter Two,(2019),169,"['Drama', 'Fantasy', 'Horror']",6.5,473122525,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+La La Land,(2016),128,"['Comedy', 'Drama', 'Music']",8,472013241,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+
+Wreck-It Ralph,(2012),101,"['Animation', 'Adventure', 'Comedy']",7.7,471222889,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Godzilla vs. Kong,(2021),113,"['Action', 'Sci-Fi', 'Thriller']",6.3,470116094,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Hangover,(2009),100,['Comedy'],7.7,469328079,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Lucy,(I) (2014),89,"['Action', 'Sci-Fi', 'Thriller']",6.4,469058574,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Lego Movie,(2014),100,"['Animation', 'Action', 'Adventure']",7.7,468266122,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Bumblebee,(I) (2018),114,"['Action', 'Adventure', 'Sci-Fi']",6.7,467989645,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Star Trek Into Darkness,(2013),132,"['Action', 'Adventure', 'Sci-Fi']",7.7,467365246,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Matrix,(1999),136,"['Action', 'Sci-Fi']",8.7,467222728,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Pretty Woman,(1990),119,"['Comedy', 'Romance']",7.1,463406268,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Cars,(2006),117,"['Animation', 'Adventure', 'Comedy']",7.2,461991867,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ba bai,(2020),149,"['Action', 'Drama', 'History']",6.7,461421559,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+
+X-Men: The Last Stand,(2006),104,"['Action', 'Adventure', 'Sci-Fi']",6.6,460435291,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Du xing yue qiu,(2022),122,"['Comedy', 'Sci-Fi']",6.4,460237662,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+National Treasure: Book of Secrets,(2007),124,"['Action', 'Adventure', 'Mystery']",6.5,459242249,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Mission: Impossible,(1996),110,"['Action', 'Adventure', 'Thriller']",7.1,457696391,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+300,(2006),117,"['Action', 'Drama']",7.6,456082343,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Last Samurai,(2003),154,"['Action', 'Drama']",7.8,454627263,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Kimetsu no Yaiba: Mugen Ressha-Hen,(2020),117,"['Animation', 'Action', 'Adventure']",8.2,453210959,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Wo bu shi yao shen,(2018),117,"['Comedy', 'Drama']",7.8,451183391,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ocean's Eleven,(2001),116,"['Crime', 'Thriller']",7.7,450717150,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Wo he wo de zu guo,(2019),154,"['Drama', 'History']",6.3,450064993,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+
+Thor,(2011),115,"['Action', 'Fantasy']",7,449326618,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Pearl Harbor,(2001),183,"['Action', 'Drama', 'History']",6.2,449220945,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+
+Tarzan,(1999),88,"['Animation', 'Adventure', 'Comedy']",7.3,448191819,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Men in Black II,(2002),88,"['Action', 'Adventure', 'Comedy']",6.2,445135288,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Bourne Ultimatum,(2007),115,"['Action', 'Mystery', 'Thriller']",8,444100035,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+The Mummy Returns,(2001),130,"['Action', 'Adventure', 'Fantasy']",6.4,443280904,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Alvin and the Chipmunks: The Squeakquel,(2009),88,"['Animation', 'Adventure', 'Comedy']",4.5,443140005,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Les Misérables,(2012),158,"['Drama', 'Musical', 'Romance']",7.5,442299309,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+
+The Exorcist,(1973),122,['Horror'],8.1,441306145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Mrs. Doubtfire,(1993),125,"['Comedy', 'Drama']",7.1,441286195,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Terminator Genisys,(2015),126,"['Action', 'Adventure', 'Sci-Fi']",6.3,440603537,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Warcraft,(2016),123,"['Action', 'Adventure', 'Fantasy']",6.7,439048914,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+A Star Is Born,(2018),136,"['Drama', 'Music', 'Romance']",7.6,436233122,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+
+The Greatest Showman,(2017),105,"['Biography', 'Drama', 'Musical']",7.5,435732529,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+
+Terminator 3: Rise of the Machines,(2003),109,"['Action', 'Sci-Fi']",6.3,433371112,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Pokémon: Detective Pikachu,(2019),104,"['Action', 'Adventure', 'Comedy']",6.5,433230304,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Shang-Chi and the Legend of the Ten Rings,(2021),132,"['Action', 'Adventure', 'Fantasy']",7.4,432243292,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Die Another Day,(2002),133,"['Action', 'Adventure', 'Thriller']",6.1,431971116,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Secret Life of Pets 2,(2019),86,"['Animation', 'Adventure', 'Comedy']",6.4,431058415,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Cast Away,(2000),143,"['Adventure', 'Drama', 'Romance']",7.8,429632142,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Rampage,(2018),107,"['Action', 'Adventure', 'Sci-Fi']",6.1,428028233,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The King's Speech,(2010),118,"['Biography', 'Drama', 'History']",8,427374317,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+
+The Matrix Revolutions,(2003),129,"['Action', 'Sci-Fi']",6.7,427344325,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Intouchables,(2011),112,"['Biography', 'Comedy', 'Drama']",8.5,426588510,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+
+Bad Boys for Life,(2020),124,"['Action', 'Comedy', 'Crime']",6.5,426505244,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Django Unchained,(2012),165,"['Drama', 'Western']",8.4,426074373,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+
+Beauty and the Beast,(1991),84,"['Animation', 'Family', 'Fantasy']",8,424967620,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Dances with Wolves,(1990),181,"['Adventure', 'Drama', 'Western']",8,424208848,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+
+Wo he wo de jia xiang,(2020),153,['Drama'],6.4,422390820,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Chronicles of Narnia: Prince Caspian,(2008),150,"['Action', 'Adventure', 'Family']",6.5,419665568,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Sex and the City,(2008),145,"['Comedy', 'Drama', 'Romance']",5.7,418765519,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Zhong guo ji zhang,(2019),111,"['Action', 'Adventure', 'Drama']",6.2,417282021,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Mummy,(1999),124,"['Action', 'Adventure', 'Fantasy']",7.1,415933406,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Chronicles of Narnia: The Voyage of the Dawn Treader,(2010),113,"['Adventure', 'Family', 'Fantasy']",6.3,415686217,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Jason Bourne,(I) (2016),123,"['Action', 'Thriller']",6.6,415484914,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Mad Max: Fury Road,(2015),120,"['Action', 'Adventure', 'Sci-Fi']",8.1,415261382,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Wolverine,(2013),126,"['Action', 'Sci-Fi']",6.7,414828246,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Kingsman: The Secret Service,(2014),129,"['Action', 'Adventure', 'Comedy']",7.7,414351546,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Night at the Museum: Battle of the Smithsonian,(2009),105,"['Adventure', 'Comedy', 'Family']",6,413106170,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Batman,(1989),126,"['Action', 'Adventure']",7.5,411569241,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Bodyguard,(1992),129,"['Action', 'Drama', 'Music']",6.3,411046449,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+
+Pacific Rim,(2013),131,"['Action', 'Adventure', 'Sci-Fi']",6.9,411002906,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Kingsman: The Golden Circle,(2017),141,"['Action', 'Adventure', 'Comedy']",6.7,410902662,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Mummy,(2017),110,"['Action', 'Adventure', 'Fantasy']",5.4,409231607,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Ice Age: Collision Course,(2016),94,"['Animation', 'Adventure', 'Comedy']",5.6,408754975,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Twilight,(I) (2008),122,"['Drama', 'Fantasy', 'Romance']",5.3,408430415,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Signs,(2002),106,"['Drama', 'Mystery', 'Sci-Fi']",6.8,408247917,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+X2,(2003),134,"['Action', 'Sci-Fi', 'Thriller']",7.4,407711549,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Sing 2,(2021),110,"['Animation', 'Adventure', 'Comedy']",7.4,407562651,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Fantastic Beasts: The Secrets of Dumbledore,(2022),142,"['Adventure', 'Family', 'Fantasy']",6.2,406950844,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+The Wolf of Wall Street,(2013),180,"['Biography', 'Comedy', 'Crime']",8.2,406878233,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+
+Alita: Battle Angel,(2019),122,"['Action', 'Adventure', 'Sci-Fi']",7.3,404980543,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Mummy: Tomb of the Dragon Emperor,(2008),112,"['Action', 'Adventure', 'Fantasy']",5.2,403449830,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Prometheus,(I) (2012),124,"['Adventure', 'Mystery', 'Sci-Fi']",7,403354469,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Sonic the Hedgehog 2,(2022),122,"['Action', 'Adventure', 'Comedy']",6.5,402656846,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Gone with the Wind,(1939),238,"['Drama', 'Romance', 'War']",8.2,402382193,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+
+Mamma Mia! Here We Go Again,(2018),114,"['Comedy', 'Musical', 'Romance']",6.6,402264843,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+
+Eternals,(2021),156,"['Action', 'Adventure', 'Fantasy']",6.3,402064899,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Dune: Part One,(2021),155,"['Action', 'Adventure', 'Drama']",8,402027830,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Uncharted,(2022),116,"['Action', 'Adventure']",6.3,401748820,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Tron,(2010),125,"['Action', 'Adventure', 'Sci-Fi']",6.8,400063852,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Mission: Impossible III,(2006),126,"['Action', 'Adventure', 'Thriller']",6.9,398479497,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Snow White and the Huntsman,(2012),127,"['Action', 'Adventure', 'Drama']",6.1,396592829,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Grease,(1978),110,"['Comedy', 'Musical', 'Romance']",7.2,396271103,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+
+Toy Story,(1995),81,"['Animation', 'Adventure', 'Comedy']",8.3,394436586,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Solo: A Star Wars Story,(2018),135,"['Action', 'Adventure', 'Sci-Fi']",6.9,392924807,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Black Adam,(2022),125,"['Action', 'Adventure', 'Fantasy']",6.3,392913058,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Superman Returns,(2006),154,"['Action', 'Adventure', 'Sci-Fi']",6.1,391081192,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Robin Hood: Prince of Thieves,(1991),143,"['Action', 'Adventure', 'Drama']",6.9,390493908,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Raiders of the Lost Ark,(1981),115,"['Action', 'Adventure']",8.4,389925971,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Independence Day: Resurgence,(2016),120,"['Action', 'Adventure', 'Sci-Fi']",5.2,389681935,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Live Free or Die Hard,(2007),128,"['Action', 'Thriller']",7.1,388156011,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Zhuo yao ji,(2015),117,"['Adventure', 'Comedy', 'Fantasy']",6.1,387053506,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Godzilla: King of the Monsters,(2019),132,"['Action', 'Adventure', 'Fantasy']",6,386600138,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Home,(II) (2015),94,"['Animation', 'Adventure', 'Comedy']",6.5,386041607,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Star Trek,(2009),127,"['Action', 'Adventure', 'Sci-Fi']",7.9,385680446,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+1917,(2019),119,"['Action', 'Drama', 'War']",8.2,384577421,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+
+Happy Feet,(2006),108,"['Animation', 'Adventure', 'Comedy']",6.4,384336108,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Spider-Man: Into the Spider-Verse,(2018),117,"['Animation', 'Action', 'Adventure']",8.4,384256930,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Cars 3,(2017),102,"['Animation', 'Adventure', 'Comedy']",6.7,383930656,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Back to the Future,(1985),116,"['Adventure', 'Comedy', 'Sci-Fi']",8.5,383336762,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ice Age,(2002),81,"['Animation', 'Adventure', 'Comedy']",7.5,383257136,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Kimi no na wa.,(2016),106,"['Animation', 'Drama', 'Fantasy']",8.4,382238181,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Fifty Shades Darker,(2017),118,"['Drama', 'Romance', 'Thriller']",4.6,381545846,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Monsters vs. Aliens,(2009),94,"['Animation', 'Action', 'Adventure']",6.4,381509870,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Black Widow,(2021),134,"['Action', 'Adventure', 'Sci-Fi']",6.7,379751655,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Godzilla,(I) (1998),139,"['Action', 'Sci-Fi', 'Thriller']",5.4,379014294,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+True Lies,(1994),141,"['Action', 'Comedy', 'Thriller']",7.3,378882411,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+
+Slumdog Millionaire,(2008),120,"['Crime', 'Drama', 'Romance']",8,378410542,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Once Upon a Time in... Hollywood,(2019),161,"['Comedy', 'Drama']",7.6,377617598,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Taken 2,(2012),92,"['Action', 'Crime', 'Thriller']",6.2,376152455,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+G.I. Joe: Retaliation,(2013),110,"['Action', 'Adventure', 'Sci-Fi']",5.7,375740705,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Shark Tale,(2004),90,"['Animation', 'Adventure', 'Comedy']",6,374583879,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+What Women Want,(2000),127,"['Comedy', 'Fantasy', 'Romance']",6.4,374111707,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Adventures of Tintin,(2011),107,"['Animation', 'Action', 'Adventure']",7.3,373993951,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Batman Begins,(2005),140,"['Action', 'Crime', 'Drama']",8.2,373672993,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Penguins of Madagascar,(2014),92,"['Animation', 'Action', 'Adventure']",6.6,373515621,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+X-Men Origins: Wolverine,(2009),107,"['Action', 'Sci-Fi']",6.5,373062864,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Golden Compass,(2007),113,"['Adventure', 'Family', 'Fantasy']",6.1,372234864,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Fifty Shades Freed,(2018),105,"['Drama', 'Romance', 'Thriller']",4.5,371985018,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Hitch,(I) (2005),118,"['Comedy', 'Romance']",6.6,371594210,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Terminator Salvation,(2009),115,"['Action', 'Adventure', 'Sci-Fi']",6.5,371353001,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Captain America: The First Avenger,(2011),124,"['Action', 'Adventure', 'Sci-Fi']",6.9,370569774,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Edge of Tomorrow,(2014),113,"['Action', 'Adventure', 'Sci-Fi']",7.9,370541256,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+There's Something About Mary,(1998),119,"['Comedy', 'Romance']",7.1,369884651,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Gone Girl,(2014),149,"['Drama', 'Mystery', 'Thriller']",8.1,369330363,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+The Fugitive,(1993),130,"['Action', 'Crime', 'Drama']",7.8,368875760,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Jurassic Park III,(2001),92,"['Action', 'Adventure', 'Sci-Fi']",5.9,368780809,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+My Big Fat Greek Wedding,(2002),95,"['Comedy', 'Drama', 'Romance']",6.6,368744044,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Xi hong shi shou fu,(2018),118,['Comedy'],6.1,366961907,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Die Hard with a Vengeance,(1995),128,"['Action', 'Adventure', 'Thriller']",7.6,366101666,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Shazam!,(2019),132,"['Action', 'Adventure', 'Comedy']",7,366080049,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Nun,(2018),96,"['Horror', 'Mystery', 'Thriller']",5.3,365582797,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+
+Alvin and the Chipmunks,(2007),92,"['Animation', 'Adventure', 'Comedy']",5.2,365352546,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Tenet,(2020),150,"['Action', 'Sci-Fi', 'Thriller']",7.3,365304105,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Notting Hill,(1999),124,"['Comedy', 'Drama', 'Romance']",7.2,363889678,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+A Bug's Life,(1998),95,"['Animation', 'Adventure', 'Comedy']",7.2,363258859,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Night at the Museum: Secret of the Tomb,(2014),98,"['Adventure', 'Comedy', 'Family']",6.2,363204635,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Ocean's Twelve,(2004),125,"['Crime', 'Thriller']",6.5,362744280,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Planet of the Apes,(2001),119,"['Action', 'Adventure', 'Sci-Fi']",5.7,362211740,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Hangover Part III,(2013),100,"['Comedy', 'Crime']",5.8,362000072,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The World Is Not Enough,(1999),128,"['Action', 'Adventure', 'Thriller']",6.4,361832400,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Zhuo yao ji 2,(2018),110,"['Adventure', 'Comedy', 'Fantasy']",5.4,361682618,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Fast & Furious,(2009),107,"['Action', 'Crime', 'Thriller']",6.5,360366870,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Noah,(2014),138,"['Action', 'Adventure', 'Drama']",5.8,359200044,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Karate Kid,(2010),140,"['Action', 'Drama', 'Family']",6.2,359126022,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Home Alone 2: Lost in New York,(1992),120,"['Adventure', 'Comedy', 'Crime']",6.8,358994850,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Hotel Transylvania,(2012),91,"['Animation', 'Adventure', 'Comedy']",7,358375603,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Minority Report,(2002),145,"['Action', 'Crime', 'Mystery']",7.6,358372926,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Top Gun,(1986),109,"['Action', 'Drama']",6.9,357288178,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Legend of Tarzan,(2016),110,"['Action', 'Adventure', 'Drama']",6.2,356700357,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+American Beauty,(1999),122,['Drama'],8.3,356296601,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Sen to Chihiro no kamikakushi,(2001),125,"['Animation', 'Adventure', 'Family']",8.6,355822319,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Apollo 13,(I) (1995),140,"['Adventure', 'Drama', 'History']",7.7,355237933,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+
+Rain Man,(1988),133,['Drama'],8,354825435,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Great Gatsby,(2013),143,"['Drama', 'Romance']",7.2,353659851,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Dumbo,(2019),112,"['Adventure', 'Family', 'Fantasy']",6.3,353284621,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+"I, Robot",(2004),115,"['Action', 'Mystery', 'Sci-Fi']",7.1,353133898,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Basic Instinct,(1992),127,"['Drama', 'Mystery', 'Thriller']",7,352927224,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Murder on the Orient Express,(2017),114,"['Crime', 'Drama', 'Mystery']",6.5,352794081,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+X: First Class,(2011),131,"['Action', 'Sci-Fi']",7.7,352616690,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Angry Birds,(2016),97,"['Animation', 'Action', 'Adventure']",6.3,352333929,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+GoldenEye,(1995),130,"['Action', 'Adventure', 'Thriller']",7.2,352194034,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Catch Me If You Can,(2002),141,"['Biography', 'Crime', 'Drama']",8.1,352114312,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Now You See Me,(I) (2013),115,"['Crime', 'Mystery', 'Thriller']",7.2,351723989,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Hannibal,(2001),131,"['Crime', 'Drama', 'Thriller']",6.8,351692268,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Mask,(1994),101,"['Action', 'Comedy', 'Crime']",6.9,351583407,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Peter Rabbit,(2018),95,"['Adventure', 'Comedy', 'Crime']",6.6,351496066,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Speed,(1994),116,"['Action', 'Adventure', 'Thriller']",7.3,350448145,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Dinosaur,(2000),82,"['Animation', 'Adventure', 'Drama']",6.4,349822765,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Mary Poppins Returns,(2018),130,"['Adventure', 'Comedy', 'Family']",6.7,349546142,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Deep Impact,(1998),120,"['Action', 'Drama', 'Sci-Fi']",6.2,349464664,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Lorax,(2012),86,"['Animation', 'Adventure', 'Comedy']",6.4,349183316,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Maze Runner,(2014),113,"['Action', 'Mystery', 'Sci-Fi']",6.8,348319861,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+The Smurfs 2,(2013),105,"['Animation', 'Adventure', 'Comedy']",5.3,347545360,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+National Treasure,(2004),131,"['Action', 'Adventure', 'Mystery']",6.9,347512318,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Rush Hour 2,(2001),90,"['Action', 'Comedy', 'Crime']",6.6,347325802,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Trolls,(2016),92,"['Animation', 'Adventure', 'Comedy']",6.4,347182886,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+xXx: Return of Xander Cage,(2017),107,"['Action', 'Adventure', 'Thriller']",5.2,346118277,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Pocahontas,(I) (1995),81,"['Animation', 'Adventure', 'Drama']",6.7,346079773,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+How the Grinch Stole Christmas,(2000),104,"['Comedy', 'Family', 'Fantasy']",6.3,345823032,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Star Trek Beyond,(2016),122,"['Action', 'Adventure', 'Sci-Fi']",7,343471816,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Alvin and the Chipmunks: Chipwrecked,(2011),87,"['Animation', 'Adventure', 'Comedy']",4.3,342695435,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Wanted,(2008),110,"['Action', 'Crime', 'Thriller']",6.7,342463063,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Flintstones,(1994),91,"['Comedy', 'Family', 'Fantasy']",5,341631208,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+A Quiet Place,(2018),90,"['Drama', 'Horror', 'Sci-Fi']",7.5,340952971,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Enchanted,(2007),107,"['Animation', 'Adventure', 'Comedy']",7.1,340487836,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Over the Hedge,(2006),83,"['Animation', 'Adventure', 'Comedy']",6.7,339795890,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+300: Rise of an Empire,(2014),102,"['Action', 'Drama']",6.2,337580051,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Batman Forever,(1995),121,"['Action', 'Adventure']",5.4,336567158,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Prince of Persia: The Sands of Time,(2010),116,"['Action', 'Adventure', 'Fantasy']",6.6,336365676,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Curious Case of Benjamin Button,(2008),166,"['Drama', 'Fantasy', 'Romance']",7.8,335802786,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Journey 2: The Mysterious Island,(2012),94,"['Action', 'Adventure', 'Comedy']",5.7,335287748,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Rock,(1996),136,"['Action', 'Adventure', 'Thriller']",7.4,335062621,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Great Wall,(I) (2016),103,"['Action', 'Adventure', 'Fantasy']",5.9,334933831,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Now You See Me 2,(2016),129,"['Action', 'Adventure', 'Comedy']",6.4,334897606,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Xiu xiu de tie quan,(2017),100,"['Comedy', 'Fantasy', 'Sport']",6.2,334530869,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+
+Fantastic Four,(I) (2005),106,"['Action', 'Adventure', 'Fantasy']",5.7,333535934,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Indiana Jones and the Temple of Doom,(1984),118,"['Action', 'Adventure']",7.5,333107271,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Tomorrow Never Dies,(1997),119,"['Action', 'Adventure', 'Thriller']",6.5,333011068,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Back to the Future Part II,(1989),108,"['Adventure', 'Comedy', 'Sci-Fi']",7.8,332500002,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Good Dinosaur,(2015),93,"['Animation', 'Adventure', 'Comedy']",6.7,332207671,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Free Guy,(2021),115,"['Action', 'Adventure', 'Comedy']",7.1,331526598,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+22 Jump Street,(2014),112,"['Action', 'Comedy', 'Crime']",7,331333876,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Meet the Parents,(2000),108,"['Comedy', 'Romance']",7,330444045,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Who Framed Roger Rabbit,(1988),104,"['Animation', 'Adventure', 'Comedy']",7.7,329803958,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Black Swan,(2010),108,"['Drama', 'Thriller']",8,329398046,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Perfect Storm,(2000),130,"['Action', 'Adventure', 'Drama']",6.5,328718434,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+John Wick: Chapter 3 - Parabellum,(2019),130,"['Action', 'Crime', 'Thriller']",7.4,328349387,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Crocodile Dundee,(1986),97,"['Action', 'Adventure', 'Comedy']",6.6,328203506,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Feng kuang de wai xing ren,(2019),116,"['Comedy', 'Sci-Fi']",5.8,327598891,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Se7en,(1995),127,"['Crime', 'Drama', 'Mystery']",8.6,327333559,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+The Devil Wears Prada,(2006),109,"['Comedy', 'Drama']",6.9,326706115,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Taken 3,(2014),108,"['Action', 'Crime', 'Thriller']",6,326479141,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Hunchback of Notre Dame,(1996),91,"['Animation', 'Drama', 'Family']",7,325338851,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+A Christmas Carol,(2009),96,"['Animation', 'Adventure', 'Comedy']",6.8,325286646,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The SpongeBob Movie: Sponge Out of Water,(2015),92,"['Animation', 'Adventure', 'Comedy']",6,325186032,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Schindler's List,(1993),195,"['Biography', 'Drama', 'History']",9,322161245,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+
+Megamind,(2010),95,"['Animation', 'Action', 'Comedy']",7.3,321885765,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Conjuring 2,(2016),134,"['Horror', 'Mystery', 'Thriller']",7.3,321834351,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+
+Green Book,(2018),130,"['Biography', 'Comedy', 'Drama']",8.2,321752656,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+
+Lethal Weapon 3,(1992),118,"['Action', 'Crime', 'Thriller']",6.7,321731527,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Robin Hood,(2010),140,"['Action', 'Adventure', 'Drama']",6.6,321669741,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Inglourious Basterds,(2009),153,"['Adventure', 'Drama', 'War']",8.3,321457747,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+
+101 Dalmatians,(1996),103,"['Adventure', 'Comedy', 'Crime']",5.7,320689294,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Conjuring,(2013),112,"['Horror', 'Mystery', 'Thriller']",7.5,320406242,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+
+Fatal Attraction,(1987),119,"['Drama', 'Thriller']",6.9,320145693,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Sonic the Hedgehog,(2020),99,"['Action', 'Adventure', 'Comedy']",6.5,319715683,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Last Airbender,(2010),103,"['Action', 'Adventure', 'Family']",4,319713881,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+The Proposal,(I) (2009),108,"['Comedy', 'Drama', 'Romance']",6.7,317375031,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Polar Express,(2004),100,"['Animation', 'Adventure', 'Comedy']",6.6,316897787,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+A Beautiful Mind,(2001),135,"['Biography', 'Drama']",8.2,316791257,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Beverly Hills Cop,(1984),105,"['Action', 'Comedy', 'Crime']",7.3,316360478,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Air Force One,(1997),124,"['Action', 'Drama', 'Thriller']",6.5,315156409,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Wonder,(I) (2017),113,"['Drama', 'Family']",7.9,315025930,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+The Expendables 2,(2012),103,"['Action', 'Adventure', 'Thriller']",6.6,314975955,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Chicken Little,(2005),81,"['Animation', 'Adventure', 'Comedy']",5.7,314432837,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+As Good as It Gets,(1997),139,"['Comedy', 'Drama', 'Romance']",7.7,314178011,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Knives Out,(2019),130,"['Comedy', 'Crime', 'Drama']",7.9,312897920,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Maze Runner: The Scorch Trials,(2015),131,"['Action', 'Adventure', 'Sci-Fi']",6.3,312296056,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Resident Evil: The Final Chapter,(2016),107,"['Action', 'Horror', 'Sci-Fi']",5.5,312242626,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+The Lego Batman Movie,(2017),104,"['Animation', 'Action', 'Adventure']",7.3,312136671,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Austin Powers: The Spy Who Shagged Me,(1999),95,"['Action', 'Adventure', 'Comedy']",6.6,312016928,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ocean's Thirteen,(2007),122,"['Crime', 'Thriller']",6.9,311312624,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Little Fockers,(2010),98,"['Comedy', 'Romance']",5.5,310650585,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Bolt,(2008),96,"['Animation', 'Adventure', 'Comedy']",6.8,309979994,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ransom,(1996),121,"['Action', 'Crime', 'Thriller']",6.7,309492681,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Runaway Bride,(1999),116,"['Comedy', 'Romance']",5.6,309460292,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Blind Side,(2009),129,"['Biography', 'Drama', 'Sport']",7.6,309231694,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+
+Qian ren 3: Zai jian qian ren,(2017),120,"['Comedy', 'Romance']",5.6,307592427,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Fault in Our Stars,(2014),126,"['Drama', 'Romance']",7.7,307166834,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Pursuit of Happyness,(2006),117,"['Biography', 'Drama']",8,307127625,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Rise of the Guardians,(2012),97,"['Animation', 'Action', 'Adventure']",7.2,306941670,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Close Encounters of the Third Kind,(1977),138,"['Drama', 'Sci-Fi']",7.6,306889114,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Chicago,(2002),113,"['Comedy', 'Crime', 'Musical']",7.2,306776732,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+
+Annabelle: Creation,(2017),109,"['Horror', 'Mystery', 'Thriller']",6.5,306515884,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+
+Bridesmaids,(I) (2011),125,"['Comedy', 'Romance']",6.8,306442085,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Skyscraper,(2018),102,"['Action', 'Adventure', 'Thriller']",5.8,304868961,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+A Good Day to Die Hard,(2013),98,"['Action', 'Thriller']",5.2,304654182,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Mulan,(1998),87,"['Animation', 'Adventure', 'Comedy']",7.6,304320254,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Dangal,(2016),161,"['Action', 'Biography', 'Drama']",8.3,303723636,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Passengers,(I) (2016),116,"['Drama', 'Romance', 'Sci-Fi']",7,303144152,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Battleship,(2012),131,"['Action', 'Adventure', 'Sci-Fi']",5.8,303025485,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Liar Liar,(1997),86,"['Comedy', 'Fantasy']",6.9,302710615,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+G.I. Joe: The Rise of Cobra,(2009),118,"['Action', 'Adventure', 'Sci-Fi']",5.7,302469017,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Wrath of the Titans,(2012),99,"['Action', 'Adventure', 'Fantasy']",5.7,301970083,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+4: Rise of the Silver Surfer,(2007),92,"['Action', 'Adventure', 'Fantasy']",5.6,301913131,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Hook,(1991),142,"['Adventure', 'Comedy', 'Family']",6.8,300854823,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Superman,(1978),143,"['Action', 'Adventure', 'Sci-Fi']",7.4,300478449,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Rocky IV,(1985),91,"['Drama', 'Sport']",6.9,300473716,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+
+Rambo: First Blood Part II,(1985),96,"['Action', 'Adventure', 'Thriller']",6.5,300400432,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Resident Evil: Afterlife,(2010),96,"['Action', 'Horror', 'Sci-Fi']",5.8,300228084,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Van Helsing,(2004),131,"['Action', 'Adventure', 'Fantasy']",6,300157638,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Stuart Little,(1999),84,"['Adventure', 'Comedy', 'Family']",6,300135367,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Beverly Hills Cop II,(1987),100,"['Action', 'Comedy', 'Crime']",6.5,299965036,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Alice Through the Looking Glass,(2016),113,"['Adventure', 'Family', 'Fantasy']",6.2,299820798,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+My Best Friend's Wedding,(1997),105,"['Comedy', 'Drama', 'Romance']",6.3,299288605,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Real Steel,(2011),127,"['Action', 'Drama', 'Sci-Fi']",7,299268508,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Horton Hears a Who!,(2008),86,"['Animation', 'Adventure', 'Comedy']",6.8,298572799,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ocean's Eight,(2018),110,"['Action', 'Comedy', 'Crime']",6.3,297795726,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+A Quiet Place Part II,(2020),97,"['Drama', 'Horror', 'Sci-Fi']",7.2,297372261,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Insurgent,(2015),119,"['Action', 'Adventure', 'Sci-Fi']",6.2,297002527,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Look Who's Talking,(1989),93,['Comedy'],5.9,296999813,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Austin Powers in Goldmember,(2002),94,"['Action', 'Adventure', 'Comedy']",6.2,296938801,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ghostbusters,(1984),105,"['Action', 'Comedy', 'Fantasy']",7.8,296578797,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Miss Peregrine's Home for Peculiar Children,(2016),127,"['Adventure', 'Drama', 'Family']",6.7,296482446,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+X-Men,(2000),104,"['Action', 'Adventure', 'Sci-Fi']",7.3,296339528,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Ferdinand,(2017),108,"['Animation', 'Adventure', 'Comedy']",6.7,296069199,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Shutter Island,(2010),138,"['Mystery', 'Thriller']",8.2,294805697,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Doctor Dolittle,(1998),85,"['Comedy', 'Family', 'Fantasy']",5.4,294456605,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Bee Movie,(2007),91,"['Animation', 'Adventure', 'Comedy']",6.1,293514336,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Salt,(2010),100,"['Action', 'Thriller']",6.4,293503354,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+G-Force,(2009),88,"['Animation', 'Action', 'Adventure']",5.1,292817898,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Departed,(2006),151,"['Crime', 'Drama', 'Thriller']",8.5,291480452,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+What Lies Beneath,(2000),130,"['Drama', 'Horror', 'Mystery']",6.6,291420351,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+
+Pacific Rim: Uprising,(2018),111,"['Action', 'Adventure', 'Fantasy']",5.6,290930148,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Bourne Supremacy,(2004),108,"['Action', 'Mystery', 'Thriller']",7.7,290835269,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Sex and the City 2,(2010),146,"['Comedy', 'Drama', 'Romance']",4.5,290745055,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Shakespeare in Love,(1998),123,"['Comedy', 'Drama', 'History']",7.1,289317794,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+
+Divergent,(2014),139,"['Action', 'Adventure', 'Mystery']",6.6,288885818,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Coming to America,(1988),117,"['Comedy', 'Romance']",7.1,288752301,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Wedding Crashers,(2005),119,"['Comedy', 'Romance']",7,288485135,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Maze Runner: The Death Cure,(2018),143,"['Action', 'Adventure', 'Sci-Fi']",6.2,288175335,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Casper,(1995),100,"['Comedy', 'Family', 'Fantasy']",6.1,287928194,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+American Pie 2,(2001),108,['Comedy'],6.4,287553595,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Elvis,(2022),159,"['Biography', 'Drama', 'Music']",7.3,287340048,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+
+Pitch Perfect 2,(2015),115,"['Comedy', 'Music']",6.4,287144079,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+
+The Green Mile,(1999),189,"['Crime', 'Drama', 'Fantasy']",8.6,286801374,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Oblivion,(I) (2013),124,"['Action', 'Adventure', 'Sci-Fi']",7,286168572,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Elysium,(I) (2013),109,"['Action', 'Drama', 'Sci-Fi']",6.6,286140700,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Lethal Weapon 4,(1998),127,"['Action', 'Crime', 'Thriller']",6.6,285444603,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+John Carter,(2012),132,"['Action', 'Adventure', 'Sci-Fi']",6.6,284139100,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Turbo,(2013),96,"['Animation', 'Adventure', 'Comedy']",6.4,282570682,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Paddington,(2014),95,"['Adventure', 'Comedy', 'Family']",7.3,282377683,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Bridget Jones's Diary,(2001),97,"['Comedy', 'Drama', 'Romance']",6.8,281995610,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Tourist,(I) (2010),103,"['Action', 'Thriller']",6,278780441,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Split,(IX) (2016),117,"['Horror', 'Thriller']",7.3,278454417,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+
+Scary Movie,(2000),88,['Comedy'],6.2,278019771,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+xXx,(2002),124,"['Action', 'Adventure', 'Thriller']",5.8,277448382,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Bourne Legacy,(2012),135,"['Action', 'Adventure', 'Thriller']",6.6,276144750,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Mr. Peabody & Sherman,(2014),92,"['Animation', 'Adventure', 'Comedy']",6.8,275698039,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Scooby-Doo,(2002),89,"['Adventure', 'Comedy', 'Family']",5.2,275678613,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Lincoln,(2012),150,"['Biography', 'Drama', 'History']",7.3,275293450,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+
+Lara Croft: Tomb Raider,(2001),100,"['Action', 'Adventure', 'Fantasy']",5.7,274703340,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Tomb Raider,(2018),119,"['Action', 'Adventure', 'Fantasy']",6.3,274650803,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Expendables,(2010),103,"['Action', 'Adventure', 'Thriller']",6.4,274470394,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Cloudy with a Chance of Meatballs 2,(2013),95,"['Animation', 'Adventure', 'Comedy']",6.3,274325949,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Nutty Professor,(1996),95,"['Comedy', 'Romance', 'Sci-Fi']",5.7,273961019,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Jerry Maguire,(1996),139,"['Comedy', 'Drama', 'Romance']",7.3,273552592,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Bad Boys II,(2003),147,"['Action', 'Comedy', 'Crime']",6.6,273339556,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Lilo & Stitch,(2002),85,"['Animation', 'Adventure', 'Comedy']",7.3,273144151,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Silence of the Lambs,(1991),118,"['Crime', 'Drama', 'Thriller']",8.6,272742922,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Grown Ups,(I) (2010),102,['Comedy'],5.9,271457301,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Neighbors,(I) (2014),97,['Comedy'],6.3,270665134,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Firm,(1993),154,"['Drama', 'Mystery', 'Thriller']",6.8,270248367,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+We're the Millers,(2013),110,"['Comedy', 'Crime']",7,269994119,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Gran Torino,(2008),116,['Drama'],8.1,269958228,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+"10,000 BC",(2008),109,"['Action', 'Adventure', 'Drama']",5.1,269784201,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+American Gangster,(2007),157,"['Biography', 'Crime', 'Drama']",7.8,269755430,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Epic,(2013),102,"['Animation', 'Action', 'Adventure']",6.6,268426634,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Exodus: Gods and Kings,(2014),150,"['Action', 'Adventure', 'Drama']",6,268175631,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Blade Runner 2049,(2017),164,"['Action', 'Drama', 'Mystery']",8,267770708,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Bambi,(1942),69,"['Animation', 'Adventure', 'Drama']",7.3,267447150,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Princess and the Frog,(2009),97,"['Animation', 'Adventure', 'Comedy']",7.1,267045765,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Batman Returns,(1992),126,"['Action', 'Crime', 'Fantasy']",7.1,266915287,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Indecent Proposal,(1993),117,"['Drama', 'Romance']",6,266614059,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Something's Gotta Give,(2003),128,"['Comedy', 'Drama', 'Romance']",6.7,265328738,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Bridget Jones: The Edge of Reason,(2004),108,"['Comedy', 'Drama', 'Romance']",6,265126918,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Incredible Hulk,(2008),112,"['Action', 'Adventure', 'Sci-Fi']",6.6,264770996,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Waterworld,(1995),135,"['Action', 'Adventure', 'Sci-Fi']",6.3,264218220,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Truman Show,(1998),103,"['Comedy', 'Drama']",8.2,264118201,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Charlie's Angels,(2000),98,"['Action', 'Adventure', 'Comedy']",5.6,264105545,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Fifth Element,(1997),126,"['Action', 'Adventure', 'Sci-Fi']",7.6,263920180,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Jumanji,(1995),104,"['Adventure', 'Comedy', 'Family']",7,262821940,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Gisaengchung,(2019),132,"['Drama', 'Thriller']",8.5,262676096,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,(2006),84,['Comedy'],7.4,262552893,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Robots,(2005),91,"['Animation', 'Adventure', 'Comedy']",6.4,262511490,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Knight and Day,(2010),109,"['Action', 'Adventure', 'Comedy']",6.3,261989769,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Total Recall,(1990),113,"['Action', 'Adventure', 'Sci-Fi']",7.5,261317921,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+This Is It,(2009),111,"['Documentary', 'Drama', 'Music']",7.2,261183588,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+
+Terminator: Dark Fate,(2019),128,"['Action', 'Adventure', 'Sci-Fi']",6.2,261119292,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Lone Ranger,(2013),150,"['Action', 'Adventure', 'Western']",6.4,260502115,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+
+Super 8,(2011),112,"['Action', 'Mystery', 'Sci-Fi']",7,260095986,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Halloween,(I) (2018),106,"['Crime', 'Horror', 'Thriller']",6.5,259939835,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+
+Xun long jue,(2015),127,"['Action', 'Adventure', 'Drama']",5.9,259368448,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Charlie's Angels: Full Throttle,(2003),106,"['Action', 'Adventure', 'Comedy']",4.9,259175788,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Rush Hour 3,(2007),91,"['Action', 'Comedy', 'Crime']",6.2,258097122,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Full Monty,(1997),91,"['Comedy', 'Drama']",7.2,257938649,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Gong fu yu jia,(2017),107,"['Action', 'Adventure', 'Comedy']",5.1,257753889,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Annabelle,(I) (2014),99,"['Horror', 'Mystery', 'Thriller']",5.4,257589721,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+
+Encanto,(2021),102,"['Animation', 'Comedy', 'Family']",7.2,256786742,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+The Village,(2004),108,"['Drama', 'Mystery', 'Thriller']",6.6,256697520,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Gang jiong,(2015),114,"['Action', 'Adventure', 'Comedy']",5.4,256283912,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Erin Brockovich,(2000),131,"['Biography', 'Drama']",7.4,256271286,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Us,(II) (2019),116,"['Horror', 'Mystery', 'Thriller']",6.8,256067149,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+
+Fei chi ren sheng,(2019),98,"['Comedy', 'Sport']",6.3,255863112,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+
+Get Out,(I) (2017),104,"['Horror', 'Mystery', 'Thriller']",7.7,255745157,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+
+Marley & Me,(2008),111,"['Drama', 'Family']",7,255743093,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Cliffhanger,(1993),113,"['Action', 'Adventure', 'Thriller']",6.5,255000211,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Baahubali 2: The Conclusion,(2017),167,"['Action', 'Drama']",8.2,254158390,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Babe,(1995),91,"['Comedy', 'Drama', 'Family']",6.9,254134910,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Men in Black: International,(2019),114,"['Action', 'Adventure', 'Comedy']",5.6,253890701,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Wild Hogs,(2007),100,"['Action', 'Adventure', 'Comedy']",5.8,253625427,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+High School Musical 3: Senior Year,(2008),112,"['Comedy', 'Drama', 'Family']",4.9,252909177,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Hercules,(1997),93,"['Animation', 'Adventure', 'Comedy']",7.3,252712101,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Dark Phoenix,(2019),113,"['Action', 'Adventure', 'Sci-Fi']",5.7,252442974,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+True Grit,(2010),110,"['Drama', 'Western']",7.6,252276927,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+
+Dolittle,(2020),101,"['Adventure', 'Comedy', 'Family']",5.6,251410631,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Bean,(1997),89,"['Adventure', 'Comedy', 'Family']",6.5,251212670,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+American Hustle,(2013),138,"['Crime', 'Drama']",7.2,251171807,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Enemy of the State,(1998),132,"['Action', 'Thriller']",7.3,250849789,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+You've Got Mail,(1998),119,"['Comedy', 'Drama', 'Romance']",6.7,250821495,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Eragon,(2006),104,"['Action', 'Adventure', 'Family']",5.1,250425512,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Brother Bear,(2003),85,"['Animation', 'Adventure', 'Comedy']",6.8,250397798,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Godfather,(1972),175,"['Crime', 'Drama']",9.2,250341816,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Mask of Zorro,(1998),136,"['Action', 'Adventure', 'Comedy']",6.8,250288523,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Bad Guys,(2022),100,"['Animation', 'Adventure', 'Comedy']",6.8,250162278,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Ring,(2002),115,"['Horror', 'Mystery']",7.1,249348933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+
+The Blair Witch Project,(1999),81,"['Horror', 'Mystery']",6.5,248639099,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+
+Unbreakable,(2000),106,"['Drama', 'Mystery', 'Sci-Fi']",7.3,248118121,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Love Actually,(2003),135,"['Comedy', 'Drama', 'Romance']",7.6,247933248,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Journey to the West: Demon Chapter,(2017),109,"['Adventure', 'Comedy', 'Fantasy']",5.4,247585244,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Dumb and Dumber,(1994),107,['Comedy'],7.3,247290327,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Glass,(2019),129,"['Drama', 'Horror', 'Sci-Fi']",6.6,246999039,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Grown Ups 2,(2013),101,['Comedy'],5.3,246984278,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Peanuts Movie,(2015),88,"['Animation', 'Adventure', 'Comedy']",7,246233113,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Rango,(2011),107,"['Animation', 'Action', 'Adventure']",7.2,245724603,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Four Weddings and a Funeral,(1994),117,"['Comedy', 'Drama', 'Romance']",7.1,245700832,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Face/Off,(1997),138,"['Action', 'Crime', 'Sci-Fi']",7.3,245676146,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Teenage Mutant Ninja Turtles: Out of the Shadows,(2016),112,"['Action', 'Adventure', 'Comedy']",5.9,245623848,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Dark Shadows,(2012),113,"['Comedy', 'Fantasy', 'Horror']",6.2,245527149,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+
+Hulk,(2003),138,"['Action', 'Sci-Fi']",5.6,245285165,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Lie huo ying xiong,(2019),118,"['Action', 'Drama']",5.7,245179562,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Bienvenue chez les Ch'tis,(2008),106,"['Comedy', 'Romance']",7.1,245144417,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Back to the Future Part III,(1990),118,"['Adventure', 'Comedy', 'Sci-Fi']",7.4,245077583,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Pixels,(2015),105,"['Action', 'Comedy', 'Fantasy']",5.6,244874809,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Hercules,(I) (2014),98,"['Action', 'Adventure', 'Fantasy']",6,244819862,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Rush Hour,(1998),98,"['Action', 'Comedy', 'Crime']",7,244721064,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Journey to the Center of the Earth,(2008),93,"['Action', 'Adventure', 'Family']",5.8,244232688,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+After Earth,(2013),100,"['Action', 'Adventure', 'Sci-Fi']",4.8,243611982,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+A Few Good Men,(1992),138,"['Drama', 'Thriller']",7.7,243240178,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Cloudy with a Chance of Meatballs,(2009),90,"['Animation', 'Adventure', 'Comedy']",6.9,243006126,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+8 Mile,(2002),110,"['Drama', 'Music']",7.2,242875078,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+
+Daddy's Home,(2015),96,"['Comedy', 'Family']",6.1,242786137,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+RoboCop,(2014),117,"['Action', 'Crime', 'Sci-Fi']",6.1,242688965,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Eraser,(1996),115,"['Action', 'Crime', 'Thriller']",6.2,242295562,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Alien: Covenant,(2017),122,"['Horror', 'Sci-Fi', 'Thriller']",6.4,240891763,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+
+Sully,(2016),96,"['Biography', 'Drama']",7.4,240797623,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Assassin's Creed,(2016),115,"['Action', 'Adventure', 'Sci-Fi']",5.6,240697856,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Click,(2006),107,"['Comedy', 'Drama', 'Fantasy']",6.4,240685326,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Jiang Ziya,(2020),110,"['Animation', 'Action', 'Adventure']",6.5,240646355,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Planes,(2013),91,"['Animation', 'Adventure', 'Comedy']",5.7,240171783,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Resident Evil: Retribution,(2012),95,"['Action', 'Horror', 'Sci-Fi']",5.3,240159255,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Die Hard 2,(1990),124,"['Action', 'Thriller']",7.1,240031274,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Crocodile Dundee II,(1988),108,"['Action', 'Adventure', 'Comedy']",5.7,239606210,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Bullet Train,(2022),127,"['Action', 'Comedy', 'Thriller']",7.3,239268602,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+
+Crazy Rich Asians,(2018),120,"['Comedy', 'Drama', 'Romance']",6.9,238843729,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Batman & Robin,(1997),125,"['Action', 'Sci-Fi']",3.7,238235719,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Hauru no ugoku shiro,(2004),119,"['Animation', 'Adventure', 'Family']",8.2,237536126,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Gulliver's Travels,(2010),85,"['Adventure', 'Comedy', 'Family']",4.9,237382724,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Gone in Sixty Seconds,(2000),118,"['Action', 'Crime', 'Thriller']",6.5,237202299,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Saturday Night Fever,(1977),118,"['Drama', 'Music']",6.8,237113184,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+
+Silver Linings Playbook,(2012),122,"['Comedy', 'Drama', 'Romance']",7.7,236412453,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+2 Fast 2 Furious,(2003),107,"['Action', 'Crime', 'Thriller']",5.9,236350661,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Hidden Figures,(2016),127,"['Biography', 'Drama', 'History']",7.8,235956898,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+
+A.I. Artificial Intelligence,(2001),146,"['Drama', 'Sci-Fi']",7.2,235926552,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Dead Poets Society,(1989),128,"['Comedy', 'Drama']",8.1,235860116,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Spy,(2015),120,"['Action', 'Comedy']",7,235666219,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+American Pie,(1999),95,['Comedy'],7,235483004,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+American Reunion,(2012),113,['Comedy'],6.7,234989584,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Big Daddy,(1999),93,"['Comedy', 'Drama']",6.4,234801895,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Alvin and the Chipmunks: The Road Chip,(2015),92,"['Animation', 'Adventure', 'Comedy']",4.9,234798636,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Imitation Game,(2014),114,"['Biography', 'Drama', 'Thriller']",8,233555708,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+
+Cruella,(2021),134,"['Adventure', 'Comedy', 'Crime']",7.3,233503234,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Day the Earth Stood Still,(2008),104,"['Adventure', 'Drama', 'Sci-Fi']",5.5,233093859,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+American Wedding,(2003),96,['Comedy'],6.3,232722935,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Girl with the Dragon Tattoo,(2011),158,"['Crime', 'Drama', 'Mystery']",7.8,232617430,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Juno,(2007),96,"['Comedy', 'Drama']",7.5,232372681,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Argo,(2012),120,"['Biography', 'Drama', 'Thriller']",7.7,232325503,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+
+Mr. Bean's Holiday,(2007),90,"['Comedy', 'Family']",6.4,232225908,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+The English Patient,(1996),162,"['Drama', 'Romance', 'War']",7.4,231976425,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+
+Sister Act,(1992),100,"['Comedy', 'Family', 'Music']",6.5,231605150,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+
+Annabelle Comes Home,(2019),106,"['Horror', 'Mystery', 'Thriller']",5.9,231252591,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+
+Constantine,(2005),121,"['Action', 'Fantasy', 'Horror']",7,230884728,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Get Smart,(2008),110,"['Action', 'Adventure', 'Comedy']",6.5,230685453,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Space Jam,(1996),88,"['Animation', 'Adventure', 'Comedy']",6.5,230594962,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+La vita è bella,(1997),116,"['Comedy', 'Drama', 'Romance']",8.6,230098753,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Heat,(I) (2013),117,"['Action', 'Comedy', 'Crime']",6.6,229930771,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ghostbusters,(2016),117,"['Action', 'Comedy', 'Fantasy']",6.8,229147509,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ghost Rider,(2007),110,"['Action', 'Fantasy', 'Thriller']",5.3,228738393,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Xia Luo te fan nao,(2015),104,['Comedy'],6.7,228122928,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Paddington 2,(2017),103,"['Adventure', 'Comedy', 'Family']",7.8,227994792,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Sleepless in Seattle,(1993),105,"['Comedy', 'Drama', 'Romance']",6.8,227927165,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Lethal Weapon 2,(1989),114,"['Action', 'Crime', 'Thriller']",7.2,227853986,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Green Hornet,(2011),119,"['Action', 'Comedy', 'Crime']",5.8,227817248,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Out of Africa,(1985),161,"['Biography', 'Drama', 'Romance']",7.1,227514205,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Elf,(2003),97,"['Adventure', 'Comedy', 'Family']",7.1,227356156,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Fang hua,(2017),135,"['Drama', 'Romance', 'War']",7,227091290,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+
+Baby Driver,(2017),113,"['Action', 'Crime', 'Drama']",7.6,226945087,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Immortals,(2011),110,"['Action', 'Drama', 'Fantasy']",6,226904017,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Taken,(I) (2008),90,"['Action', 'Crime', 'Thriller']",7.8,226837760,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Percy Jackson & the Olympians: The Lightning Thief,(2010),118,"['Adventure', 'Family', 'Fantasy']",5.8,226497209,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Lightyear,(2022),105,"['Animation', 'Action', 'Adventure']",6.1,226425420,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Hansel & Gretel: Witch Hunters,(2013),88,"['Action', 'Fantasy', 'Horror']",6.1,226349749,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Valerian and the City of a Thousand Planets,(2017),136,"['Action', 'Adventure', 'Fantasy']",6.4,225973340,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Good Will Hunting,(1997),126,"['Drama', 'Romance']",8.3,225933435,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Shaonian de ni,(2019),135,"['Crime', 'Drama', 'Romance']",7.5,225918798,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Ford v Ferrari,(2019),152,"['Action', 'Biography', 'Drama']",8.1,225508210,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Jumper,(2008),88,"['Action', 'Adventure', 'Sci-Fi']",6.1,225132113,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Social Network,(2010),120,"['Biography', 'Drama']",7.8,224920375,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Chicken Run,(2000),84,"['Animation', 'Adventure', 'Comedy']",7.1,224874811,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Con Air,(1997),115,"['Action', 'Crime', 'Thriller']",6.9,224012234,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Interview with the Vampire: The Vampire Chronicles,(1994),123,"['Drama', 'Fantasy', 'Horror']",7.5,223664608,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Flightplan,(2005),98,"['Drama', 'Mystery', 'Thriller']",6.3,223387299,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Yes Man,(2008),104,"['Comedy', 'Romance']",6.8,223241637,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Non-Stop,(2014),106,"['Action', 'Mystery', 'Thriller']",6.9,222809600,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+"Honey, I Shrunk the Kids",(1989),93,"['Adventure', 'Comedy', 'Family']",6.4,222724172,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Fahrenheit 9/11,(2004),122,"['Documentary', 'Drama', 'War']",7.5,222446882,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+
+Wild Wild West,(1999),106,"['Action', 'Comedy', 'Sci-Fi']",4.9,222104681,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Wo he wo de fu bei,(2021),157,['Drama'],6,221831086,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Geostorm,(2017),109,"['Action', 'Sci-Fi', 'Thriller']",5.3,221600160,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Presumed Innocent,(1990),127,"['Mystery', 'Thriller']",6.9,221303188,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Jungle Cruise,(2021),127,"['Action', 'Adventure', 'Comedy']",6.6,220889446,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Scary Movie 3,(2003),84,['Comedy'],5.5,220673217,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Collateral,(2004),120,"['Action', 'Crime', 'Drama']",7.5,220239925,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Inferno,(I) (2016),121,"['Action', 'Adventure', 'Crime']",6.2,220021259,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Knocked Up,(2007),129,"['Comedy', 'Romance']",6.9,219922417,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Green Lantern,(2011),114,"['Action', 'Adventure', 'Sci-Fi']",5.5,219851172,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+What Happens in Vegas,(2008),99,"['Comedy', 'Romance']",6.1,219375562,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+It's Complicated,(2009),121,"['Comedy', 'Drama', 'Romance']",6.5,219103655,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Terminal,(2004),128,"['Comedy', 'Drama', 'Romance']",7.4,219100084,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Little Women,(2019),135,"['Drama', 'Romance']",7.8,218843645,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Captain Phillips,(2013),134,"['Action', 'Biography', 'Crime']",7.8,218791811,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+The Prince of Egypt,(1998),99,"['Animation', 'Adventure', 'Drama']",7.2,218613188,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Jack Reacher,(2012),130,"['Action', 'Mystery', 'Thriller']",7,218340595,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Kingdom of Heaven,(2005),144,"['Action', 'Adventure', 'Drama']",7.2,218122627,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Emoji Movie,(2017),86,"['Animation', 'Adventure', 'Comedy']",3.4,217776646,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Zhe ge sha shou bu tai leng jing,(2022),109,['Comedy'],6.1,217254604,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Dracula Untold,(2014),92,"['Action', 'Drama', 'Fantasy']",6.2,217124280,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Central Intelligence,(2016),107,"['Action', 'Comedy', 'Crime']",6.3,216972543,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Million Dollar Baby,(2004),132,"['Drama', 'Sport']",8.1,216763646,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+
+The Help,(2011),146,['Drama'],8.1,216639112,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Twins,(1988),107,"['Comedy', 'Crime']",6.1,216614388,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Valentine's Day,(I) (2010),125,"['Comedy', 'Romance']",5.7,216528528,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Bad Teacher,(2011),92,"['Comedy', 'Romance']",5.6,216197492,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Smile,(V) (2022),115,"['Horror', 'Mystery', 'Thriller']",6.5,216135048,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+
+Song ni yi duo xiao hong hua,(2020),122,"['Drama', 'Family']",6.7,216000000,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+The Croods: A New Age,(2020),95,"['Animation', 'Adventure', 'Comedy']",6.9,215905815,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Clear and Present Danger,(1994),141,"['Action', 'Crime', 'Drama']",6.9,215887717,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+One Hundred and One Dalmatians,(1961),79,"['Animation', 'Adventure', 'Comedy']",7.3,215880014,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Ted 2,(2015),115,['Comedy'],6.3,215863606,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Dracula,(1992),128,"['Drama', 'Fantasy', 'Horror']",7.4,215862692,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Vertical Limit,(2000),124,"['Action', 'Adventure', 'Drama']",5.9,215663859,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Ghostbusters II,(1989),108,"['Action', 'Comedy', 'Fantasy']",6.6,215394738,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Patriot,(2000),165,"['Action', 'Drama', 'History']",7.2,215294342,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+
+The Sorcerer's Apprentice,(2010),109,"['Action', 'Adventure', 'Family']",6.1,215283742,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Just Go with It,(2011),117,"['Comedy', 'Romance']",6.4,214945591,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Expendables 3,(2014),126,"['Action', 'Adventure', 'Thriller']",6.1,214657577,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Dirty Dancing,(I) (1987),100,"['Drama', 'Music', 'Romance']",7,214577242,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+
+Creed II,(2018),130,"['Action', 'Drama', 'Sport']",7.1,214215889,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+
+Smallfoot,(2018),96,"['Animation', 'Adventure', 'Comedy']",6.6,214115531,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Public Enemies,(2009),140,"['Action', 'Biography', 'Crime']",7,214104620,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+The Bourne Identity,(2002),119,"['Action', 'Mystery', 'Thriller']",7.9,214034224,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Disclosure,(1994),128,"['Drama', 'Thriller']",6.1,214015089,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Pulp Fiction,(1994),154,"['Crime', 'Drama']",8.9,213928762,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Aviator,(2004),170,"['Biography', 'Drama']",7.5,213719942,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Wo hu cang long,(2000),120,"['Action', 'Adventure', 'Drama']",7.9,213525736,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Braveheart,(1995),178,"['Biography', 'Drama', 'History']",8.4,213216216,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+
+Into the Woods,(2014),125,"['Adventure', 'Comedy', 'Drama']",5.9,212902372,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Bedtime Stories,(2008),99,"['Adventure', 'Comedy', 'Family']",6,212874864,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Miss Congeniality,(2000),109,"['Action', 'Comedy', 'Crime']",6.3,212742720,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Entrapment,(1999),113,"['Action', 'Crime', 'Romance']",6.3,212404396,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Ace Ventura: When Nature Calls,(1995),90,"['Adventure', 'Comedy', 'Crime']",6.4,212385533,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+End of Days,(1999),122,"['Action', 'Fantasy', 'Horror']",5.8,211989043,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Bridget Jones's Baby,(2016),123,"['Comedy', 'Drama', 'Romance']",6.5,211952420,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Fury,(2014),134,"['Action', 'Drama', 'War']",7.5,211822697,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+
+Battle: Los Angeles,(2011),116,"['Action', 'Adventure', 'Sci-Fi']",5.7,211819354,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Australia,(2008),165,"['Adventure', 'Drama', 'Romance']",6.6,211787511,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Due Date,(2010),95,"['Comedy', 'Drama']",6.5,211780824,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Master and Commander: The Far Side of the World,(2003),138,"['Action', 'Adventure', 'Drama']",7.4,211622535,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+A Series of Unfortunate Events,(2004),108,"['Adventure', 'Comedy', 'Family']",6.8,211468235,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+The Little Mermaid,(1989),83,"['Animation', 'Adventure', 'Family']",7.6,211343479,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Qi ji · Ben xiao hai,(2022),106,"['Comedy', 'Drama']",6.6,211019042,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+District 9,(2009),112,"['Action', 'Sci-Fi', 'Thriller']",7.9,210888950,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Moonraker,(1979),126,"['Action', 'Adventure', 'Sci-Fi']",6.2,210308099,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Others,(2001),101,"['Horror', 'Mystery', 'Thriller']",7.6,209947037,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+
+Horrible Bosses,(2011),98,"['Comedy', 'Crime']",6.9,209838559,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Hou lai de wo men,(2018),120,"['Drama', 'Romance']",7.4,209221380,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Red Dragon,(2002),124,"['Crime', 'Drama', 'Thriller']",7.2,209196298,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Tomorrowland,(2015),130,"['Action', 'Adventure', 'Family']",6.4,209035668,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Me Before You,(2016),106,"['Drama', 'Romance']",7.4,208314186,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Safe House,(2012),115,"['Action', 'Thriller']",6.7,208076205,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+S.W.A.T.,(2003),117,"['Action', 'Adventure', 'Crime']",6,207725639,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Fast and the Furious,(2001),106,"['Action', 'Crime', 'Thriller']",6.8,207517509,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Traffic,(2000),147,"['Crime', 'Drama', 'Thriller']",7.6,207515725,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+DC League of Super-Pets,(2022),105,"['Animation', 'Action', 'Adventure']",7.1,207357117,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Paranormal Activity 3,(2011),83,"['Horror', 'Mystery']",5.8,207039844,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+
+Philadelphia,(1993),125,['Drama'],7.7,206678440,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Conjuring: The Devil Made Me Do It,(2021),112,"['Horror', 'Mystery', 'Thriller']",6.3,206431050,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+
+Sleepy Hollow,(1999),105,"['Fantasy', 'Horror', 'Mystery']",7.3,206071502,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+
+The Holiday,(2006),136,"['Comedy', 'Romance']",6.9,205850169,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Jungle Book,(1967),78,"['Animation', 'Adventure', 'Comedy']",7.6,205843612,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Nou fo,(2021),126,"['Action', 'Adventure', 'Crime']",6.5,205842393,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+London Has Fallen,(2016),99,"['Action', 'Thriller']",5.9,205754447,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Break-Up,(2006),106,"['Comedy', 'Drama', 'Romance']",5.8,205668210,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Xi you: Xiang mo pian,(2013),110,"['Action', 'Adventure', 'Comedy']",6.7,205637183,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Ugly Truth,(2009),96,"['Comedy', 'Romance']",6.4,205599393,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+JFK,(1991),189,"['Drama', 'History', 'Thriller']",8,205405498,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+
+Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,(2020),109,"['Action', 'Comedy', 'Crime']",6,205372791,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+White House Down,(2013),131,"['Action', 'Drama', 'Thriller']",6.3,205366737,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+A Dog's Purpose,(2017),100,"['Adventure', 'Comedy', 'Drama']",7.2,205035819,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Gake no ue no Ponyo,(2008),101,"['Animation', 'Adventure', 'Comedy']",7.6,204826668,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Fun with Dick and Jane,(2005),90,"['Comedy', 'Crime']",6.2,204681899,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Eat Pray Love,(2010),133,"['Biography', 'Drama', 'Romance']",5.8,204594016,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+The Addams Family,(2019),86,"['Animation', 'Comedy', 'Family']",5.8,204394183,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Ghostbusters: Afterlife,(2021),124,"['Adventure', 'Comedy', 'Fantasy']",7.1,204334455,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+You Don't Mess with the Zohan,(2008),113,"['Action', 'Comedy']",5.6,204313400,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Hairspray,(2007),117,"['Comedy', 'Drama', 'Musical']",6.7,203627753,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+
+King Arthur,(2004),126,"['Action', 'Adventure', 'Drama']",6.3,203567857,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Yogi Bear,(2010),81,"['Animation', 'Adventure', 'Comedy']",4.6,203509374,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Everest,(2015),121,"['Action', 'Adventure', 'Biography']",7.1,203427584,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+Vanilla Sky,(2001),136,"['Fantasy', 'Mystery', 'Romance']",6.9,203388341,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Arrival,(II) (2016),116,"['Drama', 'Mystery', 'Sci-Fi']",7.9,203388186,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Need for Speed,(2014),132,"['Action', 'Adventure', 'Thriller']",6.4,203277636,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Garfield,(2004),80,"['Animation', 'Adventure', 'Comedy']",5,203172417,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Patch Adams,(1998),115,"['Biography', 'Comedy', 'Drama']",6.8,202292902,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+
+Teenage Mutant Ninja Turtles,(1990),93,"['Action', 'Adventure', 'Comedy']",6.7,202084756,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Kindergarten Cop,(1990),111,"['Action', 'Comedy', 'Crime']",6.2,201957688,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Straight Outta Compton,(2015),147,"['Biography', 'Drama', 'History']",7.8,201634991,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+
+21 Jump Street,(2012),109,"['Action', 'Comedy', 'Crime']",7.2,201585328,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Valkyrie,(2008),121,"['Drama', 'History', 'Thriller']",7.1,201545517,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+
+Open Season,(2006),86,"['Animation', 'Adventure', 'Comedy']",6.1,200811689,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Cats & Dogs,(2001),87,"['Action', 'Adventure', 'Comedy']",5.1,200687492,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Hunt for Red October,(1990),135,"['Action', 'Adventure', 'Thriller']",7.5,200512643,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Percy Jackson: Sea of Monsters,(2013),106,"['Adventure', 'Family', 'Fantasy']",5.7,199850315,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Two Weeks Notice,(2002),101,"['Comedy', 'Romance']",6.1,199043471,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+RED,(2010),111,"['Action', 'Comedy', 'Crime']",7,199006387,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Chak dan juen ga 2,(2020),120,"['Action', 'Crime', 'Thriller']",6.6,198921659,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+City of Angels,(1998),114,"['Drama', 'Fantasy', 'Romance']",6.7,198685114,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Pacifier,(2005),95,"['Action', 'Comedy', 'Drama']",5.6,198636868,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+50 First Dates,(2004),99,"['Comedy', 'Drama', 'Romance']",6.8,198520934,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Total Recall,(I) (2012),118,"['Action', 'Adventure', 'Sci-Fi']",6.2,198467168,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Yi chu hao xi,(2018),134,"['Comedy', 'Drama']",6.2,198326350,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Lo imposible,(2012),114,"['Adventure', 'Drama', 'History']",7.5,198087212,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+
+Ren zai jiong tu: Tai jiong,(2012),105,"['Adventure', 'Comedy', 'Drama']",6.2,197757387,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Christopher Robin,(2018),104,"['Adventure', 'Comedy', 'Drama']",7.2,197744377,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Jack the Giant Slayer,(2013),114,"['Action', 'Adventure', 'Fantasy']",6.2,197687603,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Smurfs: The Lost Village,(2017),90,"['Animation', 'Adventure', 'Comedy']",6,197183546,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Zhong guo yi sheng,(2021),129,['Drama'],4.7,197143218,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Spy Kids 3: Game Over,(2003),84,"['Action', 'Adventure', 'Comedy']",4.3,197101678,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Panic Room,(2002),112,"['Crime', 'Drama', 'Thriller']",6.8,197079546,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Other Woman,(2014),109,"['Comedy', 'Romance']",6,196710396,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Stargate,(1994),116,"['Action', 'Adventure', 'Sci-Fi']",7,196567262,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Beowulf,(2007),115,"['Animation', 'Action', 'Adventure']",6.3,196393745,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Vow,(2012),104,"['Drama', 'Romance']",6.8,196114570,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Anger Management,(2003),106,['Comedy'],6.2,195745823,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Tropic Thunder,(2008),107,"['Action', 'Comedy', 'War']",7.1,195702963,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+
+The Shape of Water,(2017),123,"['Drama', 'Fantasy', 'Romance']",7.3,195333312,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Rocketman,(I) (2019),121,"['Biography', 'Drama', 'Music']",7.3,195320400,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+
+The Pelican Brief,(1993),141,"['Crime', 'Drama', 'Mystery']",6.6,195268056,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+The BFG,(2016),117,"['Adventure', 'Family', 'Fantasy']",6.3,195243411,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Downton Abbey,(2019),122,"['Drama', 'Romance']",7.4,194694725,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Intern,(I) (2015),121,"['Comedy', 'Drama']",7.1,194564672,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Curse of the Were-Rabbit,(2005),85,"['Animation', 'Adventure', 'Comedy']",7.5,194137091,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Gnomeo & Juliet,(2011),84,"['Animation', 'Adventure', 'Comedy']",5.9,193967670,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Sum of All Fears,(2002),124,"['Action', 'Drama', 'Thriller']",6.4,193921372,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Gangs of New York,(2002),167,"['Crime', 'Drama']",7.5,193772504,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Post,(2017),116,"['Biography', 'Drama', 'History']",7.2,193764664,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+
+Xi you ji zhi: Sun Wukong san da Baigu Jing,(2016),119,"['Action', 'Adventure', 'Fantasy']",5.9,193678298,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Paranormal Activity,(2007),86,"['Horror', 'Mystery']",6.3,193355800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+
+Tenki no ko,(2019),112,"['Animation', 'Drama', 'Fantasy']",7.5,193337225,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Lego Movie 2: The Second Part,(2019),107,"['Animation', 'Action', 'Adventure']",6.6,192456290,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Equalizer,(2014),132,"['Action', 'Crime', 'Thriller']",7.2,192330738,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Wu sha,(2019),112,"['Crime', 'Drama', 'Thriller']",6.8,191602146,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Addams Family,(1991),99,"['Comedy', 'Fantasy']",6.9,191502426,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Longest Yard,(2005),113,"['Comedy', 'Crime', 'Sport']",6.4,191466556,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0
+
+The Lost City,(2022),112,"['Action', 'Adventure', 'Comedy']",6.1,190844029,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Santa Clause,(1994),97,"['Comedy', 'Drama', 'Family']",6.5,190539357,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Cheaper by the Dozen,(2003),98,"['Comedy', 'Family']",5.9,190538630,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+The Equalizer 2,(2018),121,"['Action', 'Crime', 'Thriller']",6.7,190400157,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Abominable,(2019),97,"['Animation', 'Adventure', 'Comedy']",7,190304772,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Hollow Man,(2000),112,"['Action', 'Horror', 'Sci-Fi']",5.8,190213455,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Outbreak,(1995),127,"['Action', 'Drama', 'Thriller']",6.6,189859560,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+So duk 2: Tin dei duei kuet,(2019),99,"['Action', 'Crime']",6,189396380,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The X Files,(1998),121,"['Drama', 'Mystery', 'Sci-Fi']",7,189176423,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Xin hua lu fang,(2014),116,"['Comedy', 'Drama', 'Romance']",6.4,189017596,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Rambo III,(1988),102,"['Action', 'Adventure', 'Thriller']",5.8,189015611,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Secret Life of Walter Mitty,(2013),114,"['Adventure', 'Comedy', 'Drama']",7.3,188133322,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Mou seung,(2018),130,"['Action', 'Crime', 'Mystery']",6.8,188116796,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Jaws 2,(1978),116,"['Adventure', 'Horror', 'Thriller']",5.8,187884007,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+
+12 Years a Slave,(2013),134,"['Biography', 'Drama', 'History']",8.1,187733202,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+
+Heat,(1995),170,"['Action', 'Crime', 'Drama']",8.3,187436818,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Mr. Popper's Penguins,(2011),94,"['Comedy', 'Family', 'Fantasy']",6,187361754,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+The Grudge,(2004),91,"['Horror', 'Mystery', 'Thriller']",5.9,187281115,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+
+I Now Pronounce You Chuck & Larry,(2007),115,"['Comedy', 'Romance']",5.9,187134117,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Horse Whisperer,(1998),169,"['Drama', 'Romance', 'Western']",6.7,186883563,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+
+Walk the Line,(2005),136,"['Biography', 'Drama', 'Music']",7.8,186797986,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+
+Jian bing xia,(2015),113,['Comedy'],5.6,186699768,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Jungle Book 2,(2003),72,"['Animation', 'Adventure', 'Comedy']",5.3,186303759,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Final Destination,(2009),82,"['Horror', 'Thriller']",5.1,186167139,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+
+Atlantis: The Lost Empire,(2001),95,"['Animation', 'Action', 'Adventure']",6.9,186053725,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Inside Man,(2006),129,"['Crime', 'Drama', 'Mystery']",7.6,186003591,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+The Waterboy,(1998),90,"['Comedy', 'Sport']",6.1,185991646,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+
+Hugo,(2011),126,"['Adventure', 'Drama', 'Family']",7.5,185770310,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Pitch Perfect 3,(2017),93,"['Comedy', 'Music']",5.8,185400345,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+
+Watchmen,(2009),162,"['Action', 'Drama', 'Mystery']",7.6,185382813,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+The Birdcage,(1996),117,['Comedy'],7.2,185260553,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Moulin Rouge!,(2001),127,"['Drama', 'Musical', 'Romance']",7.6,184935320,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+
+Snow White and the Seven Dwarfs,(1937),83,"['Animation', 'Adventure', 'Family']",7.6,184925486,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+Hop,(2011),95,"['Animation', 'Adventure', 'Comedy']",5.4,184367145,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Bad Moms,(2016),100,['Comedy'],6.2,183936074,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Jupiter Ascending,(2015),127,"['Action', 'Adventure', 'Sci-Fi']",5.3,183887723,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Knowing,(2009),121,"['Action', 'Mystery', 'Sci-Fi']",6.2,183658498,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+102 Dalmatians,(2000),100,"['Adventure', 'Comedy', 'Family']",4.8,183611771,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Storks,(2016),87,"['Animation', 'Adventure', 'Comedy']",6.8,183510278,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Stand by Me Doraemon,(2014),95,"['Animation', 'Comedy', 'Drama']",7.3,183442714,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Hitman's Bodyguard,(2017),118,"['Action', 'Comedy', 'Crime']",6.9,183428689,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Paul Blart: Mall Cop,(2009),91,"['Action', 'Comedy', 'Crime']",5.2,183348429,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Wayne's World,(1992),94,"['Comedy', 'Music']",7,183097323,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+
+Maverick,(1994),127,"['Action', 'Adventure', 'Comedy']",7,183031272,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Mirror Mirror,(I) (2012),106,"['Adventure', 'Comedy', 'Drama']",5.6,183018522,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Man in the Iron Mask,(I) (1998),132,"['Action', 'Adventure', 'Drama']",6.5,182968902,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Cape Fear,(1991),128,"['Crime', 'Thriller']",7.3,182291969,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Haunted Mansion,(2003),99,"['Comedy', 'Family', 'Fantasy']",5.1,182290266,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Xi you ji: Da nao tian gong,(2014),119,"['Action', 'Adventure', 'Family']",4.9,182206924,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+
+While You Were Sleeping,(1995),103,"['Comedy', 'Drama', 'Romance']",6.8,182057016,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The Bridges of Madison County,(1995),135,"['Drama', 'Romance']",7.6,182016617,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Du cheng feng yun III,(2016),113,"['Comedy', 'Drama']",2.6,181732879,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Poseidon,(2006),98,"['Action', 'Adventure', 'Thriller']",5.7,181674817,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+The First Wives Club,(1996),103,['Comedy'],6.4,181489203,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Xuan ya zhi shang,(2021),120,"['Crime', 'Drama', 'Thriller']",6.5,181325565,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Scooby-Doo 2: Monsters Unleashed,(2004),93,"['Adventure', 'Comedy', 'Family']",5.2,181239132,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Hot Shots!,(1991),84,"['Action', 'Comedy']",6.7,181096164,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Road to Perdition,(2002),117,"['Crime', 'Drama', 'Thriller']",7.7,181001478,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Kill Bill: Vol. 1,(2003),111,"['Action', 'Crime', 'Drama']",8.2,180906076,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Scorpion King,(2002),92,"['Action', 'Adventure', 'Fantasy']",5.5,180630907,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Sweet Home Alabama,(2002),108,"['Comedy', 'Romance']",6.2,180622424,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Daddy's Home 2,(2017),100,['Comedy'],6,180613824,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Hacksaw Ridge,(2016),139,"['Biography', 'Drama', 'History']",8.1,180563636,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+
+Deja Vu,(2006),126,"['Action', 'Crime', 'Sci-Fi']",7.1,180557550,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Dangerous Minds,(1995),99,"['Biography', 'Drama']",6.5,179519401,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+
+One Piece Film Red,(2022),115,"['Animation', 'Action', 'Adventure']",6.6,179444905,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The Dictator,(2012),83,['Comedy'],6.4,179379533,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+The League of Extraordinary Gentlemen,(2003),110,"['Action', 'Adventure', 'Fantasy']",5.8,179265204,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Allegiant,(2016),120,"['Action', 'Adventure', 'Mystery']",5.7,179246868,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+Daredevil,(2003),103,"['Action', 'Crime']",5.3,179179718,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+City Slickers,(1991),113,"['Comedy', 'Western']",6.8,179033791,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+
+He's Just Not That Into You,(2009),129,"['Comedy', 'Drama', 'Romance']",6.4,178866158,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Eagle Eye,(2008),118,"['Action', 'Mystery', 'Thriller']",6.6,178767383,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+
+Along Came Polly,(2004),90,"['Comedy', 'Romance']",6,178311729,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Flushed Away,(2006),85,"['Animation', 'Action', 'Adventure']",6.6,178281554,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Scary Movie 4,(2006),83,['Comedy'],5.1,178262620,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Dante's Peak,(1997),108,"['Action', 'Adventure', 'Thriller']",6,178127760,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Brokeback Mountain,(2005),134,"['Drama', 'Romance']",7.7,178062759,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Patriot Games,(1992),117,"['Action', 'Thriller']",6.8,178051587,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+
+Flubber,(1997),93,"['Comedy', 'Family', 'Sci-Fi']",5.3,177977226,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+
+Baywatch,(2017),116,"['Action', 'Comedy', 'Crime']",5.5,177856751,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+Double Jeopardy,(1999),105,"['Crime', 'Drama', 'Mystery']",6.5,177841558,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+
+War Horse,(2011),146,"['Action', 'Adventure', 'Drama']",7.2,177584879,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Paranormal Activity 2,(2010),91,"['Horror', 'Mystery']",5.7,177512032,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+
+How to Lose a Guy in 10 Days,(2003),116,"['Comedy', 'Romance']",6.4,177502387,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+
+AVP: Alien vs. Predator,(2004),101,"['Action', 'Adventure', 'Horror']",5.6,177427090,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+
+Ying xiong,(2002),120,"['Action', 'Adventure', 'Drama']",7.9,177395557,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+The 40 Year Old Virgin,(2005),116,"['Comedy', 'Romance']",7.1,177378645,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+

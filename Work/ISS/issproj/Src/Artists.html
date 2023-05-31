@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Artists
+    </title>
+    <style>
+        body {
+
+            background-image: linear-gradient(rgb(68, 103, 131), rgb(41, 41, 95), black);
+            background-size: 100%;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            width: 100%;
+            animation: gradient 13s ease infinite;
+            height: 1000px;
+
+
+
+        }
+
+        .column {
+
+            float: left;
+            width: 20%;
+        }
+
+        .row:after {
+            border-radius: 50%;
+            width: 300px;
+
+        }
+
+        .image {
+            left: 30px;
+            position: relative;
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            /* margin: 30px; */
+        }
+
+        .upperhome {
+            height: 700px;
+            background-image: url(homepage.jpg);
+            background-size: cover;
+        }
+
+        .actualimage {
+            border-radius: 50%;
+            width: 100%;
+            height: 100%;
+            float: left;
+        }
+
+        .overlay {
+            position: absolute;
+            width: 100%;
+            top: 0;
+            left: 0;
+            height: 100%;
+            border-radius: 50%;
+            background: rgba(0, 0, 0, 0.6);
+            color: white;
+            align-items: center;
+            justify-content: center;
+            display: flex;
+            font-family: 'Quicksand', sans-serif;
+            opacity: 0;
+            transition-duration: 0.6;
+        }
+
+        .overlay:hover {
+            opacity: 1;
+
+        }
+
+        .image_title {
+            font-size: 48;
+            font-weight: bold;
+            top: 0;
+            color: white;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+        }
+
+
+        .navbar {
+
+            background-color: #000000;
+            position: fixed;
+            top: 0;
+            z-index: 9999;
+            width: 101%;
+
+        }
+
+
+        .navbar a {
+            float: right;
+            display: block;
+            color: #eeeeee;
+            text-align: center;
+            padding: 30px 40px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        /*.navbar a:hover {
+            background-color: plum;
+
+        }*/
+
+        .navbar a.active {
+            background-color: rgb(116, 10, 165);
+        }
+
+
+
+
+        .upperhome a {
+            text-decoration: none;
+        }
+
+
+        .flexbox {
+
+            margin: 10px;
+            padding: 30px;
+            font-size: 30px;
+            align-content: center;
+        }
+
+
+        .flex-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        footer {
+            text-align: center;
+            padding: 3px;
+            color: white;
+            width: 100%;
+            margin-top: 20%;
+        }
+
+        .aboutuslink {
+            text-decoration: none;
+            color: white;
+        }
+
+        .aboutuslink:hover {
+            color: rgb(212, 46, 212);
+        }
+
+        .footerpara {
+            font-size: 20px;
+            color: #ffffff;
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <div class="upperhome">
+
+        </br>
+        </br>
+        </br>
+        </br>
+        </br>
+        </br>
+        </br>
+        </br>
+        </br>
+
+        <div class="flex-container">
+            <div class="flexbox">
+                <div class="image">
+                    <img class="actualimage" src="Photos/Art1-Back.jpg"></a>
+                    <div class="overlay">
+
+                        <a href="Art1.html">
+                            <div class="image_title">Charlie Puth</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flexbox">
+                <div class="image">
+                    <img class="actualimage" src="Photos/Art2-Back.jpg"></a>
+                    <div class="overlay">
+
+                        <a href="Art2.html">
+                            <div class="image_title">One Direction</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flexbox">
+                <div class="image">
+                    <img class="actualimage" src="Photos/Art3-Back.jpg"></a>
+                    <div class="overlay">
+
+                        <a href="Art3.html">
+                            <div class="image_title">Linkin Park</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="flex-container">
+
+            <div class="flexbox">
+                <div class="image">
+                    <img class="actualimage" src="Photos/Art4-Back.jpg"></a>
+                    <div class="overlay">
+
+                        <a href="Art4.html">
+                            <div class="image_title">Shawn Mendes</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flexbox">
+                <div class="image">
+                    <img class="actualimage" src="Photos/Art5-Back.png"></a>
+                    <div class="overlay">
+
+                        <a href="Art5.html"><div class="image_title">Taylor Swift</div></a>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="flex-container">
+        <div class="navbar">
+            <a href="about.html" id="navbar">About</a>  
+            <a id="navbar2" href="Playlist.html">Playlist</a>   
+            <a class="active" href="Artists.html">Artists</a>
+            <a href="search.html" id="navbar4">Search</a>
+            <a href="Spotlight.html" id="navbar3">SpotLight</a>
+            <a id="navbar1" href="homepage.html">Home</a>
+            <img src="Photos/vibin.png" height="80px" width="150px" alt="image no found">
+        </div>
+    </div>
+
+    <div class="flex-container">
+        <footer>
+            <pre><p class="footerpara">Terms and Conditions         Copyright Terms        <a class="aboutuslink" href="about.html">About us</a></p></pre>
+        </footer>
+    </div>
+    <script src="navbar.js"></script>
+</body>
+
+</html>

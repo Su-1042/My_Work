@@ -1,0 +1,301 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+.flex-container .navbar {
+
+    background-color: #000000;
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+    width: 101%;
+    
+}
+
+
+.navbar a {
+    float: right;
+    display: block;
+    color: #eeeeee;
+    text-align: center;
+    padding: 30px 40px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+
+
+/* .navbar a:hover {
+    background-color: plum;
+} */
+.navbar a.active {
+    background-color: rgb(116, 10, 165);
+}
+
+body {
+  
+        /* background-image: linear-gradient(to bottom,rgb(228, 116, 191), #6a0888, #031085, #060246, #000000);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        width: 100%;
+        animation: gradient 13s ease infinite;
+        height: 1650px; */
+        background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+.upperhome a {
+    text-decoration: none;
+}
+
+
+.exploresongs img {
+    align-items: center;
+    height: 400px;
+    width: 500px;
+    transition: all;
+}
+
+.exploresongs img:hover {
+    transform: scale(1.25, 1.25);
+    transition-duration: 1s;
+}
+
+
+
+.aboutuslink{
+    text-decoration: none;
+    color:white ;
+}
+
+.aboutuslink:hover{
+    color: rgb(212, 46, 212);
+}
+
+.footerpara {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+
+.actualimage img {
+    position: relative;
+    width: 350px;
+    height: 250px;
+    margin-left: 10px;
+    display: flex;
+    float: left;
+    transform: all;
+    border: #000000;
+    border-width: 3px;
+}
+
+.actualimage :hover {
+    transform: scale(1.3, 1.3);
+    transition-duration: 0.5s;
+}
+
+.notes img {
+    width: 50px;
+    animation: note 7s linear infinite;
+}
+
+.notes {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: absolute;
+    bottom: -300px;
+}
+
+@keyframes note {
+    0% {
+        transform: translateY(0);
+        opacity: 0;
+    }
+
+    50% {
+
+        opacity: 1;
+    }
+
+    70% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(-100vh);
+        opacity: 0;
+    }
+}
+
+
+.notes img:nth-child(1) {
+    animation-delay: 1s;
+    width: 25px;
+}
+
+.notes img:nth-child(2) {
+    animation-delay: 3s;
+    width: 50px;
+}
+
+.notes img:nth-child(3) {
+    animation-delay: 2.5s;
+    width: 25px;
+
+}
+
+.notes img:nth-child(4) {
+    animation-delay: 5s;
+    width: 50px;
+}
+
+.notes img:nth-child(5) {
+    animation-delay: 3.5s;
+    width: 25px;
+}
+
+.notes img:nth-child(6) {
+    animation-delay: 4s;
+    width: 50px;
+}
+
+
+.notes img:nth-child(7) {
+    animation-delay: 1s;
+    width: 50px;
+}
+
+.notes img:nth-child(8) {
+    animation-delay: 2.7s;
+    width: 25px;
+}
+
+.notes img:nth-child(9) {
+    animation-delay: 4.6s;
+    width: 50px;
+}
+
+
+table {
+    margin-left: 120px;
+}
+
+table,
+tdf {
+    width: 90%;
+    height: 900px;
+}
+
+
+
+
+/* for the tables */
+
+.image {
+    position: relative;
+    width: 275px;
+    height: 250px;
+    border-radius: 50%;
+
+}
+
+.realimage {
+
+    width: 100%;
+    height: 100%;
+    float: left;
+    box-shadow: #000000;
+    border-radius: 15px;
+    border: 3px solid black;
+
+
+}
+
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family: 'Quicksand', sans-serif;
+    opacity: 0;
+    border-radius: 15px;
+    border: 3px solid black;
+}
+
+.overlay:hover {
+    opacity: 1;
+    transition-duration: 1s;
+
+}
+
+
+.image_title {
+    font-size: 40px;
+    top: 0;
+    font-weight: 100;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+
+.flexxybox{
+    
+    margin: 10px;
+    padding: 30px;
+    font-size: 30px;
+}
+
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    color: white;
+    width: 100%;
+  }

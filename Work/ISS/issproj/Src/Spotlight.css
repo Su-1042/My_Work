@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+#typing-effect
+{
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 40px;
+}
+.SpotLight img {
+    position: absolute;
+    left: 42%;
+    /* transition: transform 1s; */
+    
+}
+.header1 {
+    font-size: 3vw;
+    text-align: center;
+    font-family: Delicious Handrawn;
+    color: #d6d6cd;
+    line-height: 100%;
+    font-weight: bold;
+
+
+}
+.paragraph {
+    font-size: 1.5vw;
+    line-height: 0.5em;
+    text-align: center;
+    color: rgb(189, 184, 184);
+}
+
+.flexxybox {
+    margin: 10px;
+    padding: 30px;
+    font-size: 15px;
+}
+
+.flex{
+  margin: 10px;
+  padding: 15px;
+  font-size: 15px;
+}
+
+.flex-container .navbar {
+
+  background-color: #000000;
+  position: fixed;
+  top: 0;
+  z-index: 9999;
+  width: 101%;
+  
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  color: #eeeeee;
+  text-align: center;
+  padding: 30px 40px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+/* .navbar a:hover {
+  background-color: plum;
+
+} */
+.navbar a.active {
+  background-color: rgb(116, 10, 165);
+}
+
+body {
+
+    background-image: linear-gradient(to bottom,rgb(81, 200, 230), #41b7d4, #2f75ad, #060246, #000000);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    animation: gradient 13s ease infinite;
+    height: 1650px;
+
+
+
+}
+label{
+    font-size: 20px;
+}
+  
+  
+ 
+  #countdown-timer {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Delicious Handrawn;
+  }
+  
+  /* Style review form */
+  form {
+    margin: 0 auto;
+    text-align: center;
+    display: inline-block;
+    
+  }
+
+  
+  input[type="text"],
+  textarea {
+    height: 30px;
+    font-size: 18px;
+    /* padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;  */
+    border: none; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  input[type="radio"] {
+    margin-right: 10px;
+    font-size: 25px;
+  }
+  
+  /* Style review table */
+  table {
+    /* border-collapse: collapse;
+    margin-top: 20px; */
+    border-collapse: collapse;
+    margin:25px 0;
+    font-size: 2em;
+    min-width: 400px;
+    width: 900px;
+    width:80%;
+    /* border-radius: 10px 10x 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px black; */
+    margin-left: 10%;
+    margin-top: 5%;
+  }
+ table thead tr{
+    background-color: rgb(27, 18, 65);
+    color: #eeeeee;
+    text-align: left;
+    font-weight: bold;
+    font-family: Delicious Handrawn;
+
+  }
+  table th, table td{
+    padding: 12px 15px;
+}
+table tbody tr:hover{
+    background-color: rgb(34, 29, 23);
+    opacity: 1;
+    color: #ffffff;
+}
+  
+  /* th,
+  td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    text-align: left;
+  } */
+  .form-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* height: 100vh;*/
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    color: white;
+    width: 100%;
+  }
+
+.footerpara {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+
+.button {
+  background-color: rgb(28, 168, 168);
+  display: flexbox;
+  
+}
+
+.flex-container .flexxybox{
+    
+  margin: 10px;
+  padding: 30px;
+  font-size: 30px;
+}
+
+
+.flex-container{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}

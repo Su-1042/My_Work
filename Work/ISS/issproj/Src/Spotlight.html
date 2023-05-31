@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Favorite Artist</title>
+  <link rel="stylesheet" href="Spotlight.css">
+</head>
+
+<body>
+  <div class="flex-container">
+    <div class="navbar">
+        <a href="about.html" id="navbar">About</a>  
+        <a id="navbar2" href="Playlist.html">Playlist</a>   
+        <a href="Artists.html" id="navbar1">Artists</a>
+        <a href="search.html" id="navbar2">Search</a>
+        <a href="Spotlight.html" class="active">SpotLight</a>
+        <a id="navbar1" href="homepage.html">Home</a>
+        <img src="Photos/vibin.png" height="80px" width="150px" alt="image no found">
+    </div>
+</div>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  <div id="typing-effect">Join VJoin Vibin' Now</div>
+  </br>
+  </br>
+  </br>
+  </br>
+  <div class="SpotLight">
+    <img src="Photos/Art5-Back.png" alt="Taylor Swift">
+  </div>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  </br>
+  <div class="flexxybox">
+    <div class="Description">
+      <h2 class="header1">Taylor Swift</h2>
+    </div>
+    <hr width="70%" height="2px" color="yellow" align="center">
+    <p class="paragraph">Taylor Swift is an American singer-songwriter who rose to fame in the mid-2000s with her country-pop music.</p>
+    <p class="paragraph">She has won numerous awards, including 11 Grammy Awards.
+    </p>
+    <p class="paragraph">In addition to her music career, Swift has also acted in films and television shows.
+    </p>
+    <p class="paragraph">She is an influential figure in popular culture and has a massive fan following around the world.</p>
+
+  </div>
+  </br>
+  </br>
+  </br>
+  </br>
+  <div id="countdown-timer"></div>
+  </br>
+  </br>
+  </br>
+  </br>
+  <div class="form-container">
+    <form id="reviewForm">
+      <label style="font-size:35px">
+        Name: <input type="text" name="name">
+      </label>
+      </br>
+      </br>
+      </br>
+      <p style="font-size:35px">Rating:</p>
+      <div class="flex">
+      <label>
+        
+        
+        <input type="radio" name="rating" value="1">1 star
+      </label>
+      </div>
+      <div class="flex">
+      <label>
+        
+        <input type="radio" name="rating" value="2">2 stars
+      </label>
+    </div>
+      <div class="flex">
+      <label>
+        
+        <input type="radio" name="rating" value="3">3 stars
+      </label>
+    </div>
+      <div class="flex"> 
+      <label>
+        <input type="radio" name="rating" value="4">4 stars
+      </label>
+      </div>
+      <div class="flex">
+      <label>
+        
+        <input type="radio" name="rating" value="5">5 stars
+      </label></div>
+      </br>
+      </br>
+      </br>
+      </br>
+      <label for="review" style="font-size:35px">Review:</label>
+      <textarea id="review" name="review"></textarea>
+
+      <div class="flexxybox">
+
+        <button type="button" onclick="submitReview()" style="font-size:25px">Submit</button>
+      </div>
+    </form>
+  </div>
+  </br>
+ 
+
+  <table id="reviewTable">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Rating</th>
+        <th>Review</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+
+
+  <!-- <h2>Upcoming Release Countdown</h2>
+	<p id="countdown"></p> -->
+
+  <script src="Spotlight.js"></script>
+  <div class="flex-container">
+    <footer>
+      <pre><p class="footerpara">Terms and Conditions         Copyright Terms        <a class="aboutuslink" href="about.html" style="text-decoration: none;" style="color:white;">About us</a></p></pre>
+    </footer>
+  </div>
+  <script src="navbar.js"></script>
+</body>
+
+</html>
