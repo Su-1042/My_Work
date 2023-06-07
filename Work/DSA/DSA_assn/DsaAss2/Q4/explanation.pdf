@@ -1,0 +1,50 @@
+EXPLANATION OF THE CODE
+
+The program starts by including two standard libraries, stdio.h and stdlib.h. 
+It then defines an alias for the long long data type using the #define preprocessor directive.
+
+Next, it defines two structures, node and que. The node structure represents a node in 
+the binary search tree, with data, left, and right fields. The data field stores the integer 
+value of the node, and the left and right fields are pointers to the node's left and right children, 
+respectively. 
+
+The que structure is used to implement a queue data structure, which is used for printing 
+the level-order traversal of the modified BST.
+
+After defining the structures, the program declares a global variable sum of type long long, 
+which is used to store the running sum of the modified BST's node values.
+(the type long long is used owing to the constraints given in the question)
+
+Next, the program defines two functions, CreateNode and InsertNode. CreateNode takes an integer 
+value as input and returns a new node with the data field set to the input value and left and right 
+fields set to NULL. InsertNode takes a root node and an integer value as input, and inserts a new node with the input 
+value into the BST rooted at the given root node.
+
+(all the definitions of the two structs and the functions of createnode, and insernode are the same as given by sir in the class)
+
+The program then defines a function ListToBST, which takes an array of integers and its size as input, 
+creates an empty BST (the root in this case) and inserts each integer in the array into the BST using InsertNode. 
+The function returns a pointer to the root node of the BST.
+(ListToBST function as given is thus implemented with a change in the parameters as i have passed the array size as well so that i can iterate through all the elements in the array)
+
+Next, the program defines a recursive function ModifyBST, which takes a root node of a BST as input
+and modifies the data field of each node in the BST to be the sum of its original data value and all 
+data values of nodes visited before it (in an inorder traversal). The function uses the global variable
+sum to keep track of the running sum of the node values.
+(the logic behind this is that during an inorder traversal the condition that each node of the modified tree should be the 
+sum of all the values of the nodes smaller or equal to it is satisfied )
+
+There is also a function quinit, which initializes a queue data structure and returns a 
+pointer to it. Next, the program defines a function PrintLevelorderTree, which takes a root node of a BST as 
+input and prints the level-order traversal of the BST using a the queue which was initialised before. Here no functions like enque or deque 
+are used and instead a large queue is defined(of the order of the maximum number of nodes i.e 10^6) so that we can simply increase the index of the 
+rear and front i.e no circular queue is used.
+(Thus in this way the using the print levelorder function we get the first line of the output).
+
+After this since we need to find the sum of all elements of the modified tree to generate the second line of 
+output that is required, thus we traverse the tree once more using the ModifyBST function which adds 
+all the values of the updated nodes and the final sum of all the elements of the updated 
+tree is the final value of the sum variable to avoid this we store the previous value of the sum varioble in a 
+storesum variable and then once we obtain the final sum we will subtract the storesum to get rid 
+of the extra occurance in the sum. 
+This is why in line 168 we print the value of sum-storesum to get the second line of output.
