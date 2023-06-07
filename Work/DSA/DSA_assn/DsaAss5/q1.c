@@ -1,10 +1,21 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <assert.h>
 
+typedef struct stHeap *Heap;
 // Queue to store the nodes during traversal
-
+typedef struct stnode *Node;
+typedef struct stgraph *Graph;
+typedef int vertex;
 typedef struct que *Que;
 typedef int elementType;
+
+struct stHeap
+{
+     int current;
+     int capacity;
+     int *elements;
+};
 
 struct que
 {
@@ -15,7 +26,7 @@ struct que
     elementType *arrayeletype;
 };
 
-Que quinit(maxelem)
+Que quinit(int maxelem)
 {
     Que Q;
     Q = (Que)malloc(sizeof(struct que));
@@ -25,19 +36,19 @@ Que quinit(maxelem)
     Q->count = 0;
 }
 
-int IsFull(Que Q)
+int IsQueFull(Que Q)
 {
     return (Q->count == Q->capacity);
 }
 
-int IsEmpty(Que Q)
+int IsQueEmpty(Que Q)
 {
     return (Q->count == 0);
 }
 
 void Enque(Que Q, elementType e)
 {
-    if (IsFull(Q))
+    if (IsQueFull(Q))
     {
         printf("queue is already full\n");
         return;
@@ -53,7 +64,7 @@ void Enque(Que Q, elementType e)
 elementType Deque(Que Q)
 {
     elementType e;
-    if (IsEmpty)
+    if (IsQueEmpty)
     {
         printf("queue is already empty\n");
     }
@@ -76,6 +87,84 @@ void printqueue(Que Q)
 }
 
 
+Heap CreateHeap( int cap)
+{
+    Heap H;
+    H = (Heap)malloc(sizeof(struct stHeap));
+    H->capacity = cap;
+    H->elements = ( int *)malloc(sizeof( int) * (cap + 5));
+    H->current = 0;
+    H->elements[0] = -999999;
+    return H;
+}
+
+ int IsHeapFull(Heap H)
+{
+    return (H->current == H->capacity);
+}
+
+ int IsHeapEmpty(Heap H)
+{
+    return (H->current == 0);
+}
+
+void InsertHeap(Heap H,  int x)
+{
+     int i;
+
+    if (IsHeapFull(H))
+    {
+        // printf("heap is full\n");
+        return;
+    }
+
+    for (i = ++H->current; H->elements[i / 2] > x; i = i / 2)
+    {
+        H->elements[i] = H->elements[i / 2];
+    }
+
+    H->elements[i] = x;
+    return;
+}
+
+ int MinEle(Heap H)
+{
+     int i, child;
+     int minelement, last;
+    if (IsHeapEmpty(H))
+    {
+        return H->elements[0];
+    }
+
+    minelement = H->elements[1];
+    last = H->elements[H->current];
+    H->current--;
+    for (i = 1; 2 * i <= H->current; i = child)
+    {
+        child = 2 * i;
+        if ((child != H->current) && (H->elements[child + 1] < H->elements[child]))
+        {
+            child++;
+        }
+
+        if (last > H->elements[child])
+        {
+            H->elements[i] = H->elements[child];
+        }
+        else
+            break;
+    }
+
+    H->elements[i] = last;
+    return minelement;
+}
+
+void FreeHeap(Heap H)
+{
+    free(H->elements);
+    free(H);
+}
+
 void FreeArr(int **arr)
 {
     for (int i = 0; i < 2; i++)
@@ -86,9 +175,7 @@ void FreeArr(int **arr)
     free(arr);
 }
 
-typedef struct stnode *Node;
-typedef struct stgraph *Graph;
-typedef int vertex;
+
 
 struct stgraph
 {
@@ -198,20 +285,47 @@ int main()
     Que Q;
     Q=quinit(num_nodespossible); 
 
+    Heap H;
+    H=CreateHeap(num_nodespossible);
+
+    Enque(Q,1);
+    printf("1 ");
+    int trackQ=0;
     // the values stored are from 1 to n
-    for (int i=0;i<num_nodespossible;i++)
-    {
+    while (trackQ!=(num_nodespossible-1))    {
+
+        // adding the elements to a queue traversing the bredth
+            Node temp;
+            temp=G->pvertex[trackQ];
+
+            while(temp->pnext!=NULL)
+            {
+                if (visitedarr[temp->val]==0)
+                {
+                    InsertHeap(H,temp->val);
+                    Enque(Q,visitedarr[temp->val]);
+                    visitedarr[temp->val]=1;
+                }
+                temp=temp->pnext;
+            }
+
+            printf("%d ",MinEle(H));
         
-        if (visitedarr[G->pvertex[i]->val]==0)
-        {
 
-            Enque (Q,visitedarr[G->pvertex[i]->val]);
-                                    E
-            
-
-        }
+        trackQ++;
     }
-    
+
+
+    printqueue(Q);
+
+    while (!IsHeapEmpty)
+    {
+        printf("%d ",MinEle(H));
+    }
+
+    printf("\n");
+
+
     // for (int i = 0; i < numpaths; i++)
     // {
     //     for (int j = 0; j < 2; j++)
@@ -221,6 +335,6 @@ int main()
     //     printf("\n");
     // }
 
-
+    FreeHeap(H);
     FreeArr(arr);
 }
