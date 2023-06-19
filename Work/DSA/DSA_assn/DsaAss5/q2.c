@@ -416,4 +416,3 @@ int main()
         // DestroyBuilding(B, num_rows);
     }
 }
-
