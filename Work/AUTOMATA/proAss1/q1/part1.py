@@ -31,7 +31,7 @@ def construct(file_str: str) -> dict[str, dict[str, float]]:
         else:
             new_dict["*"][word[0]] += 1
 
-        tempchar = " "
+        tempchar = ""
      
         for i in range (0,x-1):
             tempchar += word[i]
@@ -55,7 +55,7 @@ def construct(file_str: str) -> dict[str, dict[str, float]]:
             totalofkey += new_dict[key][value]
         
         for value in new_dict[key]:
-            new_dict[key][value] = (new_dict[key][value] / totalofkey)
+            new_dict[key][value] = round(new_dict[key][value] / totalofkey, 2)
     
     return new_dict
 

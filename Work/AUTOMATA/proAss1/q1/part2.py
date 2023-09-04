@@ -1,15 +1,41 @@
 import argparse
 import pytest
 import json
+import random
 
 
 def generate(pfsa: dict[str, dict[str, float]], word_count: int) -> str:
     """Takes in the PFSA and generates a string of `word_count` number of words
+
     The following string is when the input has only "Cat" as in it's PFSA with
     count of 4.
     """
-    # TODO: FILE IN THIS FUNCTION
-    return "cat cat cat cat"
+
+    words = []
+    # for the case in which the pfsa contains only "*" 
+    # we need to print (word_count-1) blank spaces
+    if pfsa == {"*": {}}:
+        tempchar=""
+        for i in range (word_count-1):
+            tempchar += " "
+        return tempchar
+
+    for i in range(0,word_count):
+        newword = ""
+        while newword== "" or newword[-1] != "*":
+            if newword == "":
+                newword="*"
+
+            newword = random.choices(list(pfsa[newword].keys()), list(pfsa[newword].values()))[0]
+
+        words.append(newword.rstrip('*'))
+
+    newtext=""
+    for word in words:
+        newtext += word + " "
+    newtext = newtext.rstrip(" ")
+    # print(newtext)
+    return newtext
 
 
 def main():
@@ -55,14 +81,18 @@ DICTIONARIES = [
         "ca": {"cat": 1.0},
         "cat": {"cat*": 1.0},
     },
+    {
+        "*": {}
+    },
 ]
 STRINGS = [
     "a",
     "a a a a a",
     "",
     "cat cat cat cat",
+    "  ",
 ]
-COUNT = [1, 5, 0, 4]
+COUNT = [1, 5, 0, 4, 3]
 
 COMBINED = [(d, s, c) for d, (s, c) in zip(DICTIONARIES, zip(STRINGS, COUNT))]
 
@@ -71,6 +101,7 @@ COMBINED = [(d, s, c) for d, (s, c) in zip(DICTIONARIES, zip(STRINGS, COUNT))]
 def test_output_match(pfsa, string, count):
     """
     To test, install `pytest` beforehand in your Python environment.
+
     Run `pytest pfsa.py` Your code must pass all tests. There are additional
     hidden tests that your code will be tested on during VIVA.
     """
