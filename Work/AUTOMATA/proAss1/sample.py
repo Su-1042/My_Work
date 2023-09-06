@@ -1,3 +1,14 @@
+# thisdict = {
+#   "brand": "Ford",
+#   "model": "Mustang",
+#   "year": 1964
+# }
+
+
+# # print(thisdict(brand))
+
+# for i in range (0,5):
+#     print(i)
 ##################### BOILERPLATE BEGINS ############################
 
 # Token types enumeration
@@ -111,75 +122,19 @@ def tokenize(source_code):
 
 ########################## BOILERPLATE ENDS ###########################
 
-R = {
-    "S": ["FA", "SS", "y"],
-    "A": ["CS", "CL"],
-    "L": ["SM"],
-    "M": ["ES"],
-    "C": ["y", "XN","r"],
-    "N": ["OX"],
-    "O": ["+", "-", "*", "/", "^", ">", "<", "="],
-    "F": ["if"],
-    "E": ["else"],
-    "X": ["r", "XN", "y"],
-}
-    
-    # r is the set of real numbers
-    # y is the set that is the union of numbers, keywords, identifiers (aoart from if and else Ss)
 
 def checkGrammar(tokens):
     # CNF grammar
-    # Function to perform the CYK Algorithm
-    n = len(tokens)
-    
-    non_terminals = list(R.keys())
-    modified_tokens = []
-    # print(tokens[0])
-    for token in tokens:
-        if token[0] == TokenType.FLOAT or  token[0] == TokenType.INTEGER  or  token[0] == TokenType.IDENTIFIER or token[1] == "print":
-            modified_tokens.append("y")
-        
-        elif token[0] == TokenType.FLOAT or token[0] == TokenType.INTEGER:
-            modified_tokens.append ("r")
-             
-        else:
-            modified_tokens.append(token[1])
-        
-
-    # Initialize the table
-    table = [[set([]) for j in range(n)] for i in range(n)]
- 
-    for i in range(n):
-        for non_terminal in non_terminals:
-            if modified_tokens[i] in R[non_terminal]:
-                table[i][i].add(non_terminal)
-
-    # Fill in the table for substrings of length greater than 1
-    for length in range(2, n + 1):
-        for i in range(n - length + 1):
-            j = i + length - 1
-            for k in range(i, j):
-                for non_terminal in non_terminals:
-                    for production in R[non_terminal]:
-                        if len(production) == 2:
-                            left, right = production
-                            if left in table[i][k] and right in table[k + 1][j]:
-                                table[i][j].add(non_terminal)
-                                            
-    # If word can be formed by rules
-    # of given grammar
-    if len(table[0][n-1]) != 0:
-        print("True")
-    else:
-        print("Syntax Error")
-
+    # r is the set of real numbers
+    # y is the set that is the union of numbers, keywords, identifiers (aoart from if and else statements)
+    pass
 
 
 # Test the tokenizer
 if __name__ == "__main__":
-    source_code = "if 2 + print print 5"
-    w = source_code
+    source_code = "y"
     tokens = tokenize(source_code)
+
     for token in tokens:
         print(f"Token Type: {token[0]}, Token Value: {token[1]}")
 

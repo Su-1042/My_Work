@@ -25,15 +25,11 @@ def generate(pfsa: dict[str, dict[str, float]], word_count: int) -> str:
         while newword== "" or newword[-1] != "*":
             if newword == "":
                 newword="*"
-
             newword = random.choices(list(pfsa[newword].keys()), list(pfsa[newword].values()))[0]
 
         words.append(newword.rstrip('*'))
-
-    newtext=""
-    for word in words:
-        newtext += word + " "
-    newtext = newtext.rstrip(" ")
+        
+    newtext = " ".join(words)
     # print(newtext)
     return newtext
 
